@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.env
+venv/
+.ipynb_checkpoints
+
+# Data & Models (SANGAT PENTING)
+data/raw/
+data/processed/
+models/
+
+# IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
