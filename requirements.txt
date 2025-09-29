@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+torch
+transformers
+pyabsa
+streamlit
+fastapi
+uvicorn
+google-play-scraper
+nltk
+# versi spesifik jika perlu, e.g., pandas==1.5.3
