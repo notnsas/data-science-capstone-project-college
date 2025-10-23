@@ -1,0 +1,501 @@
+content,score,thumbsUpCount,cleaned_content,sentiment_label
+bagus 👌🏻👍🏻,5,0,['bagus'],positive
+bagus sekali 🥳🥳👍👏💋,5,0,"['bagus', 'sekali']",positive
+lagi nya enak di dengar,5,0,"['lagi', 'nya', 'enak', 'di', 'dengar']",positive
+bagus sih tapi itu dulu sekarang mah aneh ni aplikasi pantes orang banyak pake yang mod,3,0,"['bagus', 'sih', 'tapi', 'itu', 'dulu', 'sekarang', 'mah', 'aneh', 'ni', 'aplikasi', 'pantes', 'orang', 'banyak', 'pake', 'yang', 'mod']",negative
+sanggat sempurna aplikasi nya,5,0,"['sanggat', 'sempurna', 'aplikasi', 'nya']",positive
+Sudah bagus cuman setiap saya mau pencet lagu yg ingin saya putar malah di suruh ke halaman premium,3,1,"['sudah', 'bagus', 'cuman', 'setiap', 'saya', 'mau', 'pencet', 'lagu', 'yang', 'ingin', 'saya', 'putar', 'malah', 'di', 'suruh', 'ke', 'halaman', 'premium']",negative
+kalo gak premium cmn bisa beberapa lagunyo antar 6 atau 7 lagu,3,0,"['kalo', 'tidak', 'premium', 'cmn', 'bisa', 'beberapa', 'lagunyo', 'antar', 'atau', 'lagu']",negative
+musik nya bersih dan untuk karauke saya suka dengan aplikasi ini tidak ada iklan mantap yg membuatnya,4,0,"['musik', 'nya', 'bersih', 'dan', 'untuk', 'karauke', 'saya', 'suka', 'dengan', 'aplikasi', 'ini', 'tidak', 'ada', 'iklan', 'mantap', 'yang', 'membuatnya']",positive
+sangat menyenangkan bisa dengerin musik,5,0,"['sangat', 'menyenangkan', 'bisa', 'dengerin', 'musik']",positive
+okey,5,0,['okey'],negative
+bagus aja sih,4,0,"['bagus', 'saja', 'sih']",positive
+Saat shuffle pintar lagu malah tidak terputar dan itu berulang berkali kali kita harus buka aplikasinya lagi dan cari lagi lagu yang di ingin kan bukanya shuffle itu berjalan tanpa henti!?,1,0,"['saat', 'shuffle', 'pintar', 'lagu', 'malah', 'tidak', 'terputar', 'dan', 'itu', 'berulang', 'berkali', 'kali', 'kita', 'harus', 'buka', 'aplikasinya', 'lagi', 'dan', 'cari', 'lagi', 'lagu', 'yang', 'di', 'ingin', 'kan', 'bukanya', 'shuffle', 'itu', 'berjalan', 'tanpa', 'henti']",negative
+"Mantap, pertahankan",4,0,"['mantap', 'pertahankan']",positive
+bagus banget gk ada iklan dan gk ada virus aman banget bagus buat public coba kalian instal spotify🫵🏻🫵🏻🫵🏻🤌🏻👌🏻👍🏻👍🏻👍🏻👍🏻👍🏻,5,1,"['bagus', 'banget', 'gk', 'ada', 'iklan', 'dan', 'gk', 'ada', 'virus', 'aman', 'banget', 'bagus', 'buat', 'public', 'coba', 'kalian', 'instal', 'spotify']",positive
+ok,5,0,['ok'],negative
+aku suka Spotify,5,0,"['aku', 'suka', 'spotify']",positive
+"Spotify ga sprti aplikasi lain, iklannya pun ga bnyk. Is the best deh pokonya😘😘",5,2,"['spotify', 'tidak', 'sprti', 'aplikasi', 'lain', 'iklannya', 'pun', 'tidak', 'bnyk', 'is', 'the', 'best', 'deh', 'pokonya']",positive
+"oke lah, playlist nya banyak",5,0,"['oke', 'lah', 'playlist', 'nya', 'banyak']",positive
+"Kek Kikir Impact, udah pada premium mana dibatasin lagi jumlah lagu yang bisa diputar, Holysht.",1,1,"['kek', 'kikir', 'impact', 'udah', 'pada', 'premium', 'mana', 'dibatasin', 'lagi', 'jumlah', 'lagu', 'yang', 'bisa', 'diputar', 'holysht']",negative
+"untuk pihak spotify, sebelumnya permisi aga lancang. Saya mempunyai masukan untuk Spotify kedepannya agar segera meluncurkan fitur mengganti tema, karna dengan begitu kalangan yang memakai Spotify bisa meng kreasikan seleranya melalui fitur 'tema'. Terimakasih",5,346,"['untuk', 'pihak', 'spotify', 'sebelumnya', 'permisi', 'aga', 'lancang', 'saya', 'mempunyai', 'masukan', 'untuk', 'spotify', 'kedepannya', 'agar', 'segera', 'meluncurkan', 'fitur', 'mengganti', 'tema', 'karna', 'dengan', 'begitu', 'kalangan', 'yang', 'memakai', 'spotify', 'bisa', 'meng', 'kreasikan', 'seleranya', 'melalui', 'fitur', 'tema', 'terimakasih']",neutral
+Bagus bgt Gk ada kekurangannya tp Adain dong lirik lagu nya,5,0,"['bagus', 'banget', 'gk', 'ada', 'kekurangannya', 'tp', 'adain', 'dong', 'lirik', 'lagu', 'nya']",positive
+Agak lain,5,0,"['agak', 'lain']",negative
+Saya mau mengucapkan terimakasi pada apelikasi spotify karena ribuan lagu yg tersedia dan geratis tampa kouta siapa buruan instal apelikasi ini bagi siapa yg suka,5,0,"['saya', 'mau', 'mengucapkan', 'terimakasi', 'pada', 'apelikasi', 'spotify', 'karena', 'ribuan', 'lagu', 'yang', 'tersedia', 'dan', 'geratis', 'tampa', 'kouta', 'siapa', 'buruan', 'instal', 'apelikasi', 'ini', 'bagi', 'siapa', 'yang', 'suka']",positive
+Sangat mambantu dan menghibur,5,0,"['sangat', 'mambantu', 'dan', 'menghibur']",positive
+keren,4,0,['keren'],positive
+keren....,5,0,['keren'],positive
+nice,5,0,['nice'],positive
+"Overall udh fair. Iklan sepadan karena pake paket Free. Tapi sayangnya, fitur Shuffle Pintarnya menurut saya kurang karena terkadang setelah kita memutar musik dengan artis dan genre yg sama, tiba2 di next song genre dan artisnya berbeda sekali. Thanks",5,1891,"['overall', 'sudah', 'fair', 'iklan', 'sepadan', 'karena', 'pake', 'paket', 'free', 'tapi', 'sayangnya', 'fitur', 'shuffle', 'pintarnya', 'menurut', 'saya', 'kurang', 'karena', 'terkadang', 'setelah', 'kita', 'memutar', 'musik', 'dengan', 'artis', 'dan', 'genre', 'yang', 'sama', 'tiba', 'di', 'next', 'song', 'genre', 'dan', 'artisnya', 'berbeda', 'sekali', 'thanks']",negative
+bnyak iklan kaga seruuu,5,0,"['bnyak', 'iklan', 'kaga', 'seruuu']",negative
+Sumpah ini aplikasi Keren bangeut Ngak cuma lagu aja Murotal juga ada Beda banget sama apk sebelah jangankan murotal sholawat aja ngak ada.....!!! Update selanjut nya di tunggu min...!!!,5,9,"['sumpah', 'ini', 'aplikasi', 'keren', 'bangeut', 'ngak', 'cuma', 'lagu', 'saja', 'murotal', 'juga', 'ada', 'beda', 'banget', 'sama', 'apk', 'sebelah', 'jangankan', 'murotal', 'sholawat', 'saja', 'ngak', 'ada', 'update', 'selanjut', 'nya', 'di', 'tunggu', 'min']",negative
+good experience,5,0,"['good', 'experience']",positive
+Nice,5,0,['nice'],positive
+"Dari dulu udh seneng bgt pake ini buat dengerin lagi, sekarang banyak bgt premium nya, dengerin lagi ada batasnya lagi. Jadi ga mood dengerin lagu. Ga rekomen buat di instal.",1,3,"['dari', 'dulu', 'sudah', 'seneng', 'banget', 'pake', 'ini', 'buat', 'dengerin', 'lagi', 'sekarang', 'banyak', 'banget', 'premium', 'nya', 'dengerin', 'lagi', 'ada', 'batasnya', 'lagi', 'jadi', 'tidak', 'mood', 'dengerin', 'lagu', 'tidak', 'rekomen', 'buat', 'di', 'instal']",positive
+bagus,5,0,['bagus'],positive
+bagus,5,0,['bagus'],positive
+bagus,5,0,['bagus'],positive
+"Gudang nya segala jenis music,",5,0,"['gudang', 'nya', 'segala', 'jenis', 'music']",positive
+mantab,5,0,['mantab'],positive
+"Aplikasi yang sangat bagus.. saya selalu belajar sambil mendengarkan musik di Spotify agar bawaan nya enjoy, hanya saja iklan nya terlalu lama bagi saya",5,0,"['aplikasi', 'yang', 'sangat', 'bagus', 'saya', 'selalu', 'belajar', 'sambil', 'mendengarkan', 'musik', 'di', 'spotify', 'agar', 'bawaan', 'nya', 'enjoy', 'hanya', 'saja', 'iklan', 'nya', 'terlalu', 'lama', 'bagi', 'saya']",positive
+Saya suka aplikasi ini (Spotify) lagunya banyak pilihan dan suaranya bagus..trima kasih spotify.,5,2,"['saya', 'suka', 'aplikasi', 'ini', 'spotify', 'lagunya', 'banyak', 'pilihan', 'dan', 'suaranya', 'bagustrima', 'kasih', 'spotify']",positive
+Terlalu banyak iklan,3,0,"['terlalu', 'banyak', 'iklan']",negative
+Recommended sekali,5,0,"['recommended', 'sekali']",positive
+terlalu banyak iklan dan sistem keamanan akun Spotify juga lemah rentan di curi juga 👍,1,0,"['terlalu', 'banyak', 'iklan', 'dan', 'sistem', 'keamanan', 'akun', 'spotify', 'juga', 'lemah', 'rentan', 'di', 'curi', 'juga']",negative
+Bagus sekali,5,0,"['bagus', 'sekali']",positive
+Bagus tapi ada iklannya kadang kadang,4,0,"['bagus', 'tapi', 'ada', 'iklannya', 'kadang', 'kadang']",negative
+bgus kalau gratis,5,0,"['bgus', 'kalau', 'gratis']",neutral
+Sangat bagus sekali karena membantu saya untuk tidur menyanyikan lagu untuk saya seperti itu cerita saya untuk aplikasi spotify -salam sobat sportify ya- -Akmal-,5,0,"['sangat', 'bagus', 'sekali', 'karena', 'membantu', 'saya', 'untuk', 'tidur', 'menyanyikan', 'lagu', 'untuk', 'saya', 'seperti', 'itu', 'cerita', 'saya', 'untuk', 'aplikasi', 'spotify', 'salam', 'sobat', 'sportify', 'ya', 'akmal']",positive
+keren,5,0,['keren'],positive
+"Mantap, mudah dan lengkap semua lagu ada... makasih spotify",5,2,"['mantap', 'mudah', 'dan', 'lengkap', 'semua', 'lagu', 'ada', 'makasih', 'spotify']",positive
+lagu-lagunya lengkap semua usia,5,0,"['lagulagunya', 'lengkap', 'semua', 'usia']",positive
+baguuuuususususus,5,0,['baguuuuususususus'],negative
+bagusssss,4,0,['bagusssss'],positive
+bgus,5,0,['bgus'],positive
+menyenangkan,5,0,['menyenangkan'],positive
+"bagus untuk mencari musiknya sesuai selera, yang mines iklannya astagaa😫🤣🙏🏻",5,0,"['bagus', 'untuk', 'mencari', 'musiknya', 'sesuai', 'selera', 'yang', 'mines', 'iklannya', 'astagaa']",positive
+banyak musik yang seru,5,0,"['banyak', 'musik', 'yang', 'seru']",positive
+"harus berbayar gitu emang kalau mau pencet musik ya? gabisa gitu gratis? bagi anak sekolahan, sama orang yang berhemat itu sangat ngeganggu, tolong dong dibenerin",3,19,"['harus', 'berbayar', 'gitu', 'emang', 'kalau', 'mau', 'pencet', 'musik', 'ya', 'gabisa', 'gitu', 'gratis', 'bagi', 'anak', 'sekolahan', 'sama', 'orang', 'yang', 'berhemat', 'itu', 'sangat', 'ngeganggu', 'tolong', 'dong', 'dibenerin']",negative
+bagus njir,5,0,"['bagus', 'njir']",positive
+iklan mulu,1,0,"['iklan', 'mulu']",negative
+lagu nya bagus tapi ada iklan jafi kurang seru,4,0,"['lagu', 'nya', 'bagus', 'tapi', 'ada', 'iklan', 'jafi', 'kurang', 'seru']",negative
+Ok,4,0,['ok'],negative
+Untuk fitur bagus,5,0,"['untuk', 'fitur', 'bagus']",positive
+Bagus mantap coba lah kasi ipen prium untuk stiap orang yang sudah melampauin setahun pemakain apk ini,4,0,"['bagus', 'mantap', 'coba', 'lah', 'kasi', 'ipen', 'prium', 'untuk', 'stiap', 'orang', 'yang', 'sudah', 'melampauin', 'setahun', 'pemakain', 'apk', 'ini']",positive
+Aplikasinya Good tapi tolong iklannya jangan yang serem 🙏🏻😭,4,0,"['aplikasinya', 'good', 'tapi', 'tolong', 'iklannya', 'jangan', 'yang', 'serem']",neutral
+mutar music aja harus premium tolol emang 🤬🤬💢,1,0,"['mutar', 'music', 'saja', 'harus', 'premium', 'tolol', 'emang']",negative
+Bagus.hampir semua lagu ada semua recommend banget deh pokoknya..sukses terus buat sportfy,5,10,"['bagushampir', 'semua', 'lagu', 'ada', 'semua', 'recommend', 'banget', 'deh', 'pokoknyasukses', 'terus', 'buat', 'sportfy']",positive
+Syuka sama aplikasinya..pngen denger apa dan jadi lagu favorit tinggal add diplaylist,5,2,"['syuka', 'sama', 'aplikasinyapngen', 'denger', 'apa', 'dan', 'jadi', 'lagu', 'favorit', 'tinggal', 'add', 'diplaylist']",positive
+Menyenangkan dan ....,5,0,"['menyenangkan', 'dan']",positive
+joooss,5,0,['joooss'],positive
+love you,5,0,"['love', 'you']",negative
+ini ngembaliin mood aku banget,5,0,"['ini', 'ngembaliin', 'mood', 'aku', 'banget']",positive
+sangat berguna karena bisa bikin tenang,5,0,"['sangat', 'berguna', 'karena', 'bisa', 'bikin', 'tenang']",positive
+ngapain ngeblokir spotify mod?pake spotfy biasa aja ga gùna harus aja premium mana cuman ngeliat lirik aja ampe di batesin kontoI bet ta1 mending gw pindah ke yg lain aja udah,1,0,"['ngapain', 'ngeblokir', 'spotify', 'modpake', 'spotfy', 'biasa', 'saja', 'tidak', 'gna', 'harus', 'saja', 'premium', 'mana', 'cuman', 'ngeliat', 'lirik', 'saja', 'ampe', 'di', 'batesin', 'kontoi', 'bet', 'ta', 'mending', 'gw', 'pindah', 'ke', 'yang', 'lain', 'saja', 'udah']",negative
+mantap,5,0,['mantap'],positive
+mantapp,5,0,['mantapp'],positive
+"Aku gak suka aplikasi ini, segala pake daftar daftaran segala, pokonya aku cuma pengen langsung masuk aja gitu",1,1,"['aku', 'tidak', 'suka', 'aplikasi', 'ini', 'segala', 'pake', 'daftar', 'daftaran', 'segala', 'pokonya', 'aku', 'cuma', 'pengen', 'langsung', 'masuk', 'saja', 'gitu']",negative
+"semua musik lengkap ada, pokoknya asyiiiiik",5,0,"['semua', 'musik', 'lengkap', 'ada', 'pokoknya', 'asyiiiiik']",positive
+aku kasih bintang lima tapi tolong dong kolo udah 3 hari make Spotify masa iya Spotify nya maksa nawarin untuk memakai Spotify premium tolong ya perbaiki jangan ada pemaksaan,5,5,"['aku', 'kasih', 'bintang', 'lima', 'tapi', 'tolong', 'dong', 'kolo', 'udah', 'hari', 'make', 'spotify', 'masa', 'iya', 'spotify', 'nya', 'maksa', 'nawarin', 'untuk', 'memakai', 'spotify', 'premium', 'tolong', 'ya', 'perbaiki', 'jangan', 'ada', 'pemaksaan']",negative
+I LOVE IT (cuz i'm A kemonoimim ngl),5,0,"['i', 'love', 'it', 'cuz', 'im', 'a', 'kemonoimim', 'ngl']",negative
+Bgus tapi blm ke instal Lama nginstal ya cepetin donk trs klo mau musick gk ada suara nya jadi ya lemot padahal udh di hapusin ft ft aku 🤫🤫🤫😝🥀🥀🐦🥀🐦🥀🥀🤫🐦🤫🐦🐦🤫🥀🥀🐦🥀🐦🥀🐦🙂🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🥀🐦🥀🐦🙂🐦🥀🥀🐦🥀🐦🙂🐦🥀🥀🐦🥀🥀🥀🐦🥀🥀🐦🥀🥀🥀🐦🙂😏🐦🥀🥀🐦🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🐦🙄🥀🐦🥀🥀🚫🥀🐦🐦🥀🐦🥀🐦🐦🥀🐦🥀🐦🐦🥀🐦🥀🐦🐦🥀🥀🥀🐦🐦🥀🐦🥀🐦🥀🚫🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🙂🙂🐦🙂🐦🥀🥀🥀🥀🐦🥀🐦🥀🐦🥀🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🥀🐦🐦🥀🙄🥀,5,0,"['bgus', 'tapi', 'blm', 'ke', 'instal', 'lama', 'nginstal', 'ya', 'cepetin', 'donk', 'terus', 'klo', 'mau', 'musick', 'gk', 'ada', 'suara', 'nya', 'jadi', 'ya', 'lemot', 'padahal', 'sudah', 'di', 'hapusin', 'ft', 'ft', 'aku']",negative
+bagus bgt trs banyak pilihan lagu nya lagi,5,0,"['bagus', 'banget', 'terus', 'banyak', 'pilihan', 'lagu', 'nya', 'lagi']",positive
+Aplikasinya bagus saya sangat suka,5,0,"['aplikasinya', 'bagus', 'saya', 'sangat', 'suka']",positive
+bgus,5,0,['bgus'],positive
+Ok,5,0,['ok'],negative
+Aplikasi nya bagus banget😭😭😭😭❤❤❤❤❤gak nyesel deh download aplikasi ini🥺❤❤saya bisa denger semua lagu bts tanpa bayar besar🥺❤❤sukses terus buat pemilik aplikasi nya🥺❤❤🤲,5,1,"['aplikasi', 'nya', 'bagus', 'bangetgak', 'nyesel', 'deh', 'download', 'aplikasi', 'inisaya', 'bisa', 'denger', 'semua', 'lagu', 'bts', 'tanpa', 'bayar', 'besarsukses', 'terus', 'buat', 'pemilik', 'aplikasi', 'nya']",positive
+Bagus,4,0,['bagus'],positive
+Bagoees... !,5,0,['bagoees'],positive
+paket premium terlalu mahal,1,2,"['paket', 'premium', 'terlalu', 'mahal']",negative
+sukaaaaaa bangettt dengar lagu di Spotify ‼️,5,0,"['sukaaaaaa', 'bangettt', 'dengar', 'lagu', 'di', 'spotify']",positive
+"Apk nya udah begus bengett, Tapi ada satu yang buat gw nggak suka sma ni apk, yaitu iklan nya.. nggak masalah sih mau tampilkan iklan sebanyak mungkin, tapi pliss jangan keluarin iklan horor pass malam hari soalnya gw nggak bisa tidur 😭😭",5,7,"['apk', 'nya', 'udah', 'begus', 'bengett', 'tapi', 'ada', 'satu', 'yang', 'buat', 'gw', 'tidak', 'suka', 'sma', 'ni', 'apk', 'yaitu', 'iklan', 'nya', 'tidak', 'masalah', 'sih', 'mau', 'tampilkan', 'iklan', 'sebanyak', 'mungkin', 'tapi', 'pliss', 'jangan', 'keluarin', 'iklan', 'horor', 'pass', 'malam', 'hari', 'soalnya', 'gw', 'tidak', 'bisa', 'tidur']",negative
+mempermudah pengguna untuk mendengarkan musik,5,0,"['mempermudah', 'pengguna', 'untuk', 'mendengarkan', 'musik']",positive
+Saya driver online dan selalu pake musiknya spotify agar perjalanan makin enak hehe,5,0,"['saya', 'driver', 'online', 'dan', 'selalu', 'pake', 'musiknya', 'spotify', 'agar', 'perjalanan', 'semakin', 'enak', 'hehe']",positive
+"Sangat puas suaranya jernih,pokoknya tooop",5,0,"['sangat', 'puas', 'suaranya', 'jernihpokoknya', 'tooop']",positive
+sangat bagus...,5,0,"['sangat', 'bagus']",positive
+Dgn aplikasi ini musik begitu mudah hampir tanpa batas... Tapi sikap bijak dlm memilih yg terbaik.,5,7,"['dgn', 'aplikasi', 'ini', 'musik', 'begitu', 'mudah', 'hampir', 'tanpa', 'batas', 'tapi', 'sikap', 'bijak', 'dlm', 'memilih', 'yang', 'terbaik']",positive
+"Mantap banget, gak terlalu banyak iklan pokoknya sip",5,1,"['mantap', 'banget', 'tidak', 'terlalu', 'banyak', 'iklan', 'pokoknya', 'sip']",positive
+Seru sekali saya suka banget😘😘😘🥰🤩🤩🤩🤭,5,0,"['seru', 'sekali', 'saya', 'suka', 'banget']",positive
+"Aplikasi musik streaming dengan kualitas dan kuantitas terbaik, pertahankan Audio dan equilazernya ,",5,0,"['aplikasi', 'musik', 'streaming', 'dengan', 'kualitas', 'dan', 'kuantitas', 'terbaik', 'pertahankan', 'audio', 'dan', 'equilazernya']",positive
+Bagus,5,0,['bagus'],positive
+Aplikasi ini sangat membantu utk mendengarkan musik dengan bebas sesuai keinginan. Semua genre ada disini,5,1,"['aplikasi', 'ini', 'sangat', 'membantu', 'utk', 'mendengarkan', 'musik', 'dengan', 'bebas', 'sesuai', 'keinginan', 'semua', 'genre', 'ada', 'disini']",positive
+Emang bagus Banget sih tapi untuk liriknya Tolong Spotify ada kn terjemahan bahasa Indonesia nya dong jadi para pendengar bisa mengetahui isi lagu tersebut,5,9,"['emang', 'bagus', 'banget', 'sih', 'tapi', 'untuk', 'liriknya', 'tolong', 'spotify', 'ada', 'kn', 'terjemahan', 'bahasa', 'indonesia', 'nya', 'dong', 'jadi', 'para', 'pendengar', 'bisa', 'mengetahui', 'isi', 'lagu', 'tersebut']",negative
+mantap,5,0,['mantap'],positive
+enak lagu nya,4,0,"['enak', 'lagu', 'nya']",positive
+mantap wak,5,0,"['mantap', 'wak']",positive
+"barca has lifted the cup, we have to be premium again?, free us from ads! VISCA BARCA💙❤️",5,0,"['barca', 'has', 'lifted', 'the', 'cup', 'we', 'have', 'to', 'be', 'premium', 'again', 'free', 'us', 'from', 'ads', 'visca', 'barca']",neutral
+"Sekarang dikit dikit premium, sekalian aja buat aplikasi lo berbayar sat biar yang free gabisa denger sama sekali",2,0,"['sekarang', 'dikit', 'dikit', 'premium', 'sekalian', 'saja', 'buat', 'aplikasi', 'lo', 'berbayar', 'sat', 'biar', 'yang', 'free', 'gabisa', 'denger', 'sama', 'sekali']",negative
+Ini sangat bagus👍,5,0,"['ini', 'sangat', 'bagus']",positive
+"suka bangett sama spotify, jadi bisa denger lagu 24/7, pilihan lagunya juga banyak ☆___☆ love u spotify <333",5,0,"['suka', 'banget', 'sama', 'spotify', 'jadi', 'bisa', 'denger', 'lagu', 'pilihan', 'lagunya', 'juga', 'banyak', 'love', 'u', 'spotify']",positive
+gacor,5,0,['gacor'],positive
+bgus,5,0,['bgus'],positive
+good,5,0,['good'],positive
+aplikasinya bagus karena ada iklanya,5,0,"['aplikasinya', 'bagus', 'karena', 'ada', 'iklanya']",positive
+"data masi banyak,sinyal bagus,tpi tetep aja lag pas muter lagu itu mksdnya gimana? nyoba uninstal trus instal lgi and login ke akun sebelumnya tpi knp smua playlist malah ilang? mana playlist udah 300+ lgi,kan males klo harus nambahin satu satu",1,5,"['data', 'masi', 'banyaksinyal', 'bagustpi', 'tetep', 'saja', 'lag', 'pas', 'muter', 'lagu', 'itu', 'mksdnya', 'gimana', 'nyoba', 'uninstal', 'trus', 'instal', 'lgi', 'and', 'login', 'ke', 'akun', 'sebelumnya', 'tpi', 'knp', 'smua', 'playlist', 'malah', 'ilang', 'mana', 'playlist', 'udah', 'lgikan', 'males', 'klo', 'harus', 'nambahin', 'satu', 'satu']",negative
+baguss bisa di pakai pas lagi pengen dengerin lagu,5,0,"['baguss', 'bisa', 'di', 'pakai', 'pas', 'lagi', 'pengen', 'dengerin', 'lagu']",positive
+Sangat bagus jadi tunggu apalagi!!! buruan downold spotify bisa dengerin musik kesukaan kaliann!!!!!,5,6,"['sangat', 'bagus', 'jadi', 'tunggu', 'apalagi', 'buruan', 'downold', 'spotify', 'bisa', 'dengerin', 'musik', 'kesukaan', 'kaliann']",positive
+mantap,5,0,['mantap'],positive
+Sangat memuaskan,5,0,"['sangat', 'memuaskan']",positive
+good bettt,5,0,"['good', 'bettt']",positive
+Aplikasi ini sangat bagus untuk mendengar musik pokoknya rekomendasi buat yg suka mendengar musik,5,1,"['aplikasi', 'ini', 'sangat', 'bagus', 'untuk', 'mendengar', 'musik', 'pokoknya', 'rekomendasi', 'buat', 'yang', 'suka', 'mendengar', 'musik']",positive
+baguss,5,0,['baguss'],positive
+Terbaik,5,0,['terbaik'],positive
+keren lagu apa aja ada good👍 di jamin gak nyesel klo saya nyesel saya gak bakal dwonload Spotify ini😊🙏👍,5,0,"['keren', 'lagu', 'apa', 'saja', 'ada', 'good', 'di', 'jamin', 'tidak', 'nyesel', 'klo', 'saya', 'nyesel', 'saya', 'tidak', 'bakal', 'dwonload', 'spotify', 'ini']",positive
+"baguss bangett,suka pakai buat dengerin musik walaupun banyak iklannya",5,1,"['baguss', 'bangettsuka', 'pakai', 'buat', 'dengerin', 'musik', 'walaupun', 'banyak', 'iklannya']",positive
+Keren banget music nya lengkap keren keren lagi dan juga gratis tentunya jadi mau dengar lagu jadi enak semoga aja kedepannya Spotify selalu sukses dan makin banyak peminatnya 👍❤️,5,4,"['keren', 'banget', 'music', 'nya', 'lengkap', 'keren', 'keren', 'lagi', 'dan', 'juga', 'gratis', 'tentunya', 'jadi', 'mau', 'dengar', 'lagu', 'jadi', 'enak', 'semoga', 'saja', 'kedepannya', 'spotify', 'selalu', 'sukses', 'dan', 'semakin', 'banyak', 'peminatnya']",positive
+pokonya bagus semua lagu ada!!!!!!!!!!,5,0,"['pokonya', 'bagus', 'semua', 'lagu', 'ada']",positive
+Saya suka aplikasi Spotify suaranya sangat sempurna sekali 👌,5,0,"['saya', 'suka', 'aplikasi', 'spotify', 'suaranya', 'sangat', 'sempurna', 'sekali']",positive
+Bagus itu aja,5,0,"['bagus', 'itu', 'saja']",positive
+Saat hp dimatikan lagu nya tetap menyalaa,4,0,"['saat', 'hp', 'dimatikan', 'lagu', 'nya', 'tetap', 'menyalaa']",neutral
+Seru dan lagu enak di dengar,5,0,"['seru', 'dan', 'lagu', 'enak', 'di', 'dengar']",positive
+Jernih mudah dan menyenangkan,5,0,"['jernih', 'mudah', 'dan', 'menyenangkan']",positive
+"bagus sih cuman sering agak lelet kadang juga sering terputar sendiri padahal gak mencet, kadang gak sesuai urutan,kalau boleh iklannya dikasih ilang aja biar gk nggu dgr musik, klau blh up versi terbaru yg bisa memutar sesuai urutan, bisa mengulang kembali lagu dan bisa mencari lagu yang sesuai sama liriknya kadang aku cri lg gk sesuai sma liriknya jdi gk ktmu jdulny apa terakhir tlg jgn ngebug srg ngebug ps Putar lgu",4,0,"['bagus', 'sih', 'cuman', 'sering', 'agak', 'lelet', 'kadang', 'juga', 'sering', 'terputar', 'sendiri', 'padahal', 'tidak', 'mencet', 'kadang', 'tidak', 'sesuai', 'urutankalau', 'boleh', 'iklannya', 'dikasih', 'ilang', 'saja', 'biar', 'gk', 'nggu', 'dgr', 'musik', 'klau', 'blh', 'up', 'versi', 'terbaru', 'yang', 'bisa', 'memutar', 'sesuai', 'urutan', 'bisa', 'mengulang', 'kembali', 'lagu', 'dan', 'bisa', 'mencari', 'lagu', 'yang', 'sesuai', 'sama', 'liriknya', 'kadang', 'aku', 'cri', 'lg', 'gk', 'sesuai', 'sma', 'liriknya', 'jdi', 'gk', 'ktmu', 'jdulny', 'apa', 'terakhir', 'tlg', 'jgn', 'ngebug', 'srg', 'ngebug', 'ps', 'putar', 'lgu']",negative
+"kurangin iklan nya ya min, enak² galau tiba tiba iklan potcast horor😀👍🏻",5,0,"['kurangin', 'iklan', 'nya', 'ya', 'min', 'enak', 'galau', 'tiba', 'tiba', 'iklan', 'potcast', 'horor']",negative
+Bagus,5,0,['bagus'],positive
+kalau masuk gak bisa masuk lagi,3,0,"['kalau', 'masuk', 'tidak', 'bisa', 'masuk', 'lagi']",neutral
+aplikasi kikir,1,0,"['aplikasi', 'kikir']",neutral
+Wow keren banget aplikasi spotify ini bisa nyari lagu - lagu yang kita inginkan misalnya kpop,5,1,"['wow', 'keren', 'banget', 'aplikasi', 'spotify', 'ini', 'bisa', 'nyari', 'lagu', 'lagu', 'yang', 'kita', 'inginkan', 'misalnya', 'kpop']",positive
+recomended banget buat dengerin musik,5,0,"['recomended', 'banget', 'buat', 'dengerin', 'musik']",positive
+"Kenapa pas ngedit playlist perubahan nya malah susah ke simpan?! Aku dah pencet simpan berkali-kali tapi tetep aja, malah perubahan nya ilang. Selebihnya bagus, tapi tolong diperbaiki ya, sampe kesel aku",2,0,"['kenapa', 'pas', 'ngedit', 'playlist', 'perubahan', 'nya', 'malah', 'susah', 'ke', 'simpan', 'aku', 'sudah', 'pencet', 'simpan', 'berkalikali', 'tapi', 'tetep', 'saja', 'malah', 'perubahan', 'nya', 'ilang', 'selebihnya', 'bagus', 'tapi', 'tolong', 'diperbaiki', 'ya', 'sampe', 'kesel', 'aku']",negative
+God job,5,0,"['god', 'job']",negative
+lumayan bagus untuk denger lagu tapi pas lagi cari lagu yang keluar nya beda,5,2,"['lumayan', 'bagus', 'untuk', 'denger', 'lagu', 'tapi', 'pas', 'lagi', 'cari', 'lagu', 'yang', 'keluar', 'nya', 'beda']",negative
+sangat baguss pokoknya aku seneng pakek spotify music😍,5,1,"['sangat', 'baguss', 'pokoknya', 'aku', 'seneng', 'pakek', 'spotify', 'music']",positive
+bagus,5,0,['bagus'],positive
+broo.. 💀 tidak ada yang gratis didunia ini bahkan memutar sesuai urutan aja bayar loh..💀💀,1,0,"['broo', 'tidak', 'ada', 'yang', 'gratis', 'didunia', 'ini', 'bahkan', 'memutar', 'sesuai', 'urutan', 'saja', 'bayar', 'loh']",negative
+pokoknya mantap,5,0,"['pokoknya', 'mantap']",positive
+gak bisa masuk gua mahh cokkkk,1,0,"['tidak', 'bisa', 'masuk', 'gua', 'mahh', 'cokkkk']",negative
+Musik dlm genggaman,5,0,"['musik', 'dlm', 'genggaman']",positive
+cocok buat lagi sendiri,5,0,"['cocok', 'buat', 'lagi', 'sendiri']",positive
+sangat baguss,5,0,"['sangat', 'baguss']",positive
+bagus,5,0,['bagus'],positive
+Good Music App,5,0,"['good', 'music', 'app']",positive
+karenaa baguss,5,0,"['karenaa', 'baguss']",positive
+mantappoooo,5,0,['mantappoooo'],positive
+Kembalikan premium 3 bulan 27rb,2,0,"['kembalikan', 'premium', 'bulan', 'rb']",neutral
+Sangat memuaskan,5,0,"['sangat', 'memuaskan']",positive
+kalian harus donglot ini asih banget kalian harus donglot ini sekarang 👍👍👍👍,5,0,"['kalian', 'harus', 'donglot', 'ini', 'asih', 'banget', 'kalian', 'harus', 'donglot', 'ini', 'sekarang']",negative
+music is part of my life tho❤‍🩹❤‍🩹,5,0,"['music', 'is', 'part', 'of', 'my', 'life', 'tho']",positive
+sangat bagus,5,0,"['sangat', 'bagus']",positive
+applikasi ini sangat berguna,5,0,"['applikasi', 'ini', 'sangat', 'berguna']",positive
+"Smoga dipermudah, dipermurah utk penggunaan musik Spotify nya yaa.. soundnya keren..!",5,0,"['smoga', 'dipermudah', 'dipermurah', 'utk', 'penggunaan', 'musik', 'spotify', 'nya', 'yaa', 'soundnya', 'keren']",positive
+"apk mantep..nyesel deh kalo cuma di lewatin doang, opsi lagu banyak kwalitas lg bagus..., terus berinovasi min..",5,9,"['apk', 'mantepnyesel', 'deh', 'kalo', 'cuma', 'di', 'lewatin', 'doang', 'opsi', 'lagu', 'banyak', 'kwalitas', 'lg', 'bagus', 'terus', 'berinovasi', 'min']",positive
+Saya suka ini,5,0,"['saya', 'suka', 'ini']",positive
+"Untuk sekarang masih banyak lagu yg bisa di putar secara GRATIS, semoga kedepan nya gitu juga ya 😊",5,0,"['untuk', 'sekarang', 'masih', 'banyak', 'lagu', 'yang', 'bisa', 'di', 'putar', 'secara', 'gratis', 'semoga', 'kedepan', 'nya', 'gitu', 'juga', 'ya']",positive
+Suara Extremely.. sebaiknya setelah di download dengan kwalitas sangat tinggi.. setelah itu di buat offline. Supaya tidak tertimpa aplikasi lain.,5,0,"['suara', 'extremely', 'sebaiknya', 'setelah', 'di', 'download', 'dengan', 'kwalitas', 'sangat', 'tinggi', 'setelah', 'itu', 'di', 'buat', 'offline', 'supaya', 'tidak', 'tertimpa', 'aplikasi', 'lain']",negative
+"Spotify tolong diperbaiki, bikin kesel tau kgk!! Lagi enak-enak denger lagu malah mati sendiri, kalo mau denger lagu harus buka aplikasi lagi jadi tolong lah perbaiki biar ga sering mati sendiri lagu nya bikin kgk nyaman!!",1,31,"['spotify', 'tolong', 'diperbaiki', 'bikin', 'kesel', 'tau', 'kgk', 'lagi', 'enakenak', 'denger', 'lagu', 'malah', 'mati', 'sendiri', 'kalo', 'mau', 'denger', 'lagu', 'harus', 'buka', 'aplikasi', 'lagi', 'jadi', 'tolong', 'lah', 'perbaiki', 'biar', 'tidak', 'sering', 'mati', 'sendiri', 'lagu', 'nya', 'bikin', 'kgk', 'nyaman']",negative
+"Ngerasa gak sih Spotify sekarang kualitas soundnya makin gak bagus wkwk, maksud gw soundnya gak ngangkat dan harus pakai volume booster😄😄😄😄",1,1,"['ngerasa', 'tidak', 'sih', 'spotify', 'sekarang', 'kualitas', 'soundnya', 'semakin', 'tidak', 'bagus', 'wkwk', 'maksud', 'gw', 'soundnya', 'tidak', 'ngangkat', 'dan', 'harus', 'pakai', 'volume', 'booster']",negative
+Kurangi iklan,5,0,"['kurangi', 'iklan']",negative
+sejauh ini udh bagus banget si coba deh tambahin widget yang 1:1 biar ga itu² aja widget nya 😉,5,1,"['sejauh', 'ini', 'sudah', 'bagus', 'banget', 'si', 'coba', 'deh', 'tambahin', 'widget', 'yang', 'biar', 'tidak', 'itu', 'saja', 'widget', 'nya']",positive
+Nice,5,0,['nice'],positive
+masa maju mundurin detik lagu harus prem,1,0,"['masa', 'maju', 'mundurin', 'detik', 'lagu', 'harus', 'prem']",negative
+masa sih milih lagu aja di batesin per harinya kecewa berat,1,0,"['masa', 'sih', 'milih', 'lagu', 'saja', 'di', 'batesin', 'per', 'harinya', 'kecewa', 'berat']",negative
+"aplikasinya bagus,tapi kalau saya lagi dengar playlist saya jgan di kasih musik yg gak ada di playlist saya yahhhhhhhhhhhh",4,3,"['aplikasinya', 'bagustapi', 'kalau', 'saya', 'lagi', 'dengar', 'playlist', 'saya', 'jgan', 'di', 'kasih', 'musik', 'yang', 'tidak', 'ada', 'di', 'playlist', 'saya', 'yahhhhhhhhhhhh']",positive
+Kebanyakan iklan,5,0,"['kebanyakan', 'iklan']",negative
+bagud,4,0,['bagud'],positive
+Suara bagus walaupun belum setingkat FLAC & DSD mungkin karena GRATIS tapi sudah terbilang bagus - BASS empuk - TREBLE renyah💖 di play dgn Bluetooth S.M.S.L B1 pakai amplifier DITTON elan DI-260 UK dgn Speaker KEF-IQ70 UK. terima kasih Spotify 👍💖,5,1,"['suara', 'bagus', 'walaupun', 'belum', 'setingkat', 'flac', 'dsd', 'mungkin', 'karena', 'gratis', 'tapi', 'sudah', 'terbilang', 'bagus', 'bass', 'empuk', 'treble', 'renyah', 'di', 'play', 'dgn', 'bluetooth', 'smsl', 'b', 'pakai', 'amplifier', 'ditton', 'elan', 'di', 'uk', 'dgn', 'speaker', 'kefiq', 'uk', 'terima', 'kasih', 'spotify']",positive
+bagus,1,0,['bagus'],positive
+wow bagus banget ini udah paling bagusss ni aplikasi udah lagunya full 😍🥰🥰🥰🥰🥰🥰,5,0,"['wow', 'bagus', 'banget', 'ini', 'udah', 'paling', 'bagusss', 'ni', 'aplikasi', 'udah', 'lagunya', 'full']",positive
+best bngtt,5,0,"['best', 'bngtt']",positive
+"walau pun ada beberapa lagu yang tidak ada tetapi sangat bagus, lagu-lagu ini membuat saya merasa bahagia ☺️",5,0,"['walau', 'pun', 'ada', 'beberapa', 'lagu', 'yang', 'tidak', 'ada', 'tetapi', 'sangat', 'bagus', 'lagulagu', 'ini', 'membuat', 'saya', 'merasa', 'bahagia']",positive
+Semuanya harusnya ada tampilkan lirikkk,3,0,"['semuanya', 'harusnya', 'ada', 'tampilkan', 'lirikkk']",neutral
+"spotify burik anjir ngebug mulu kebanyakan iklan lagi, satu lagu tiga iklan bangkej, kalau buka aplikasi lain sambil denger lagu juga suka ilang, hampir semua aplikasi, lain kali di perbaiki lagi yh",3,0,"['spotify', 'burik', 'anjir', 'ngebug', 'mulu', 'kebanyakan', 'iklan', 'lagi', 'satu', 'lagu', 'tiga', 'iklan', 'bangkej', 'kalau', 'buka', 'aplikasi', 'lain', 'sambil', 'denger', 'lagu', 'juga', 'suka', 'ilang', 'hampir', 'semua', 'aplikasi', 'lain', 'kali', 'di', 'perbaiki', 'lagi', 'yh']",negative
+Bagus,5,0,['bagus'],positive
+bagus luar biasa,5,0,"['bagus', 'luar', 'biasa']",positive
+sanga bagus dan menyenangkan hati😘😍🤩,5,0,"['sanga', 'bagus', 'dan', 'menyenangkan', 'hati']",positive
+seru banget dengarin lagu,5,0,"['seru', 'banget', 'dengarin', 'lagu']",negative
+bagus,5,0,['bagus'],positive
+asyikkkk,5,0,['asyikkkk'],positive
+bagus,5,0,['bagus'],positive
+"aplikasinya bagus banget, cocok banget buat saya yang suka dengerin musik sambil buka app lain",5,1,"['aplikasinya', 'bagus', 'banget', 'cocok', 'banget', 'buat', 'saya', 'yang', 'suka', 'dengerin', 'musik', 'sambil', 'buka', 'app', 'lain']",positive
+"Menurutku udah bagus bgt lagu yg di cari semua ada,lagu kekinian juga ada cepet bgt rilis nya,sambil bermain di aplikasi lain juga bisa jadi main game sambil denger laguu,tapi sayang nya jgn maksa bgt untuk pake premium.dulu premium nya ga maksa bgt kaya kita search trs kita pilih masi bisa,sekarang kalau search lagu gabisa haru premium(kadang bisa kadang ga bisa)",4,369,"['menurutku', 'udah', 'bagus', 'banget', 'lagu', 'yang', 'di', 'cari', 'semua', 'adalagu', 'kekinian', 'juga', 'ada', 'cepet', 'banget', 'rilis', 'nyasambil', 'bermain', 'di', 'aplikasi', 'lain', 'juga', 'bisa', 'jadi', 'main', 'game', 'sambil', 'denger', 'laguutapi', 'sayang', 'nya', 'jgn', 'maksa', 'banget', 'untuk', 'pake', 'premiumdulu', 'premium', 'nya', 'tidak', 'maksa', 'banget', 'kaya', 'kita', 'search', 'terus', 'kita', 'pilih', 'masi', 'bisasekarang', 'kalau', 'search', 'lagu', 'gabisa', 'haru', 'premiumkadang', 'bisa', 'kadang', 'tidak', 'bisa']",positive
+Lagu keren banget,5,0,"['lagu', 'keren', 'banget']",positive
+aplikasi Lagu debest,5,0,"['aplikasi', 'lagu', 'debest']",neutral
+Yahh sangat suka walau kaum free,5,0,"['yahh', 'sangat', 'suka', 'walau', 'kaum', 'free']",positive
+Mantaaap,5,0,['mantaaap'],positive
+good!,5,0,['good'],positive
+Podcast nya keren dan lagunya bagus banget bisa didenger pas belajar dan bisa didenger di mana aja Keren sihh..,5,2,"['podcast', 'nya', 'keren', 'dan', 'lagunya', 'bagus', 'banget', 'bisa', 'didenger', 'pas', 'belajar', 'dan', 'bisa', 'didenger', 'di', 'mana', 'saja', 'keren', 'sihh']",positive
+mantap,5,0,['mantap'],positive
+Mantap,5,0,['mantap'],positive
+"mudah menggunakannya, lagunya lengkap",5,1,"['mudah', 'menggunakannya', 'lagunya', 'lengkap']",positive
+bisa ilangin jenuh ...mntep dh Thanks,3,0,"['bisa', 'ilangin', 'jenuh', 'mntep', 'dh', 'thanks']",positive
+"sekarang Spotify kok gbisa di download ya dihp aku? Apk apk yg lainnya juga gabisa di download, memori nya masih banyak juga, aku bingung gitu gimana caranya, pls yang tau caranya boleh kasih tau ga?",5,0,"['sekarang', 'spotify', 'kok', 'gbisa', 'di', 'download', 'ya', 'dihp', 'aku', 'apk', 'apk', 'yang', 'lainnya', 'juga', 'gabisa', 'di', 'download', 'memori', 'nya', 'masih', 'banyak', 'juga', 'aku', 'bingung', 'gitu', 'gimana', 'caranya', 'pls', 'yang', 'tau', 'caranya', 'boleh', 'kasih', 'tau', 'tidak']",negative
+lagu nya bagus semua lengkap jadi aku sukak,5,0,"['lagu', 'nya', 'bagus', 'semua', 'lengkap', 'jadi', 'aku', 'sukak']",positive
+"Sangat menyenangkan dapat menjelajahi lagu apapun dan dari manapun.. I like spotify, meskipun harus online , tapi tidak menghabiskan bnyak kuota😁💓 remkomended pokok",5,4,"['sangat', 'menyenangkan', 'dapat', 'menjelajahi', 'lagu', 'apapun', 'dan', 'dari', 'manapun', 'i', 'like', 'spotify', 'meskipun', 'harus', 'online', 'tapi', 'tidak', 'menghabiskan', 'bnyak', 'kuota', 'remkomended', 'pokok']",positive
+kebapa saya beri bintang 5 karena lagu nya enak enak terima kasih,5,0,"['kebapa', 'saya', 'beri', 'bintang', 'karena', 'lagu', 'nya', 'enak', 'enak', 'terima', 'kasih']",positive
+waw emejing😍😍😍😍😍luv it,5,0,"['waw', 'emejingluv', 'it']",negative
+the best,5,0,"['the', 'best']",positive
+lenkap semua lagu tersedia,5,0,"['lenkap', 'semua', 'lagu', 'tersedia']",neutral
+bagus buat denger musik,5,0,"['bagus', 'buat', 'denger', 'musik']",positive
+mantap,5,0,['mantap'],positive
+baguss bgttt,5,0,"['baguss', 'bgttt']",positive
+baguss wehh aku sukaa bangett soalnyaa ini aplikasi bisa diputar dimana aj contoh pas lagi main gamee. aku kasih bintang full yaaa 🌼🌼🌼🌼🌼,5,0,"['baguss', 'wehh', 'aku', 'sukaa', 'banget', 'soalnyaa', 'ini', 'aplikasi', 'bisa', 'diputar', 'dimana', 'aj', 'contoh', 'pas', 'lagi', 'main', 'gamee', 'aku', 'kasih', 'bintang', 'full', 'yaaa']",positive
+paket premium yang 1 hari atau seminggu udah ilang,1,0,"['paket', 'premium', 'yang', 'hari', 'atau', 'seminggu', 'udah', 'ilang']",negative
+Lagukeren banget,5,0,"['lagukeren', 'banget']",positive
+banyak iklan,1,0,"['banyak', 'iklan']",positive
+terlalu banyak iklan padahal aplikasi terpopuler di smartphone,1,0,"['terlalu', 'banyak', 'iklan', 'padahal', 'aplikasi', 'terpopuler', 'di', 'smartphone']",negative
+lucuuuu,5,0,['lucuuuu'],positive
+"aplikasi sampah,iya gua tau kalo ga premium iklannya ada tapi masa harus dengerin lebih banyak iklan daripada musiknya,setiap denga musik yg bunyi dluan itu iklannya anj emg ni aplikasi. sama kayak capcut gatau diri!",1,49,"['aplikasi', 'sampahiya', 'gua', 'tau', 'kalo', 'tidak', 'premium', 'iklannya', 'ada', 'tapi', 'masa', 'harus', 'dengerin', 'lebih', 'banyak', 'iklan', 'daripada', 'musiknyasetiap', 'denga', 'musik', 'yang', 'bunyi', 'dluan', 'itu', 'iklannya', 'anj', 'emg', 'ni', 'aplikasi', 'sama', 'kayak', 'capcut', 'gatau', 'diri']",negative
+top lah .,4,0,"['top', 'lah']",positive
+Aku suka dan bagus,5,0,"['aku', 'suka', 'dan', 'bagus']",positive
+bagus,5,0,['bagus'],positive
+bagus,5,0,['bagus'],positive
+"lagu nya pada lengkap-lengkap disini, suara musik nya juga jelas, baguss deh pokoknya",5,0,"['lagu', 'nya', 'pada', 'lengkaplengkap', 'disini', 'suara', 'musik', 'nya', 'juga', 'jelas', 'baguss', 'deh', 'pokoknya']",positive
+Spotify aplikasi nya bagus dan lagu lagu di Spotify asik di dengerin,5,1,"['spotify', 'aplikasi', 'nya', 'bagus', 'dan', 'lagu', 'lagu', 'di', 'spotify', 'asik', 'di', 'dengerin']",positive
+Boleh,5,0,['boleh'],positive
+seru,5,0,['seru'],negative
+Thankyou buat yang sudah membuat aplikasi ini terimakasih banget ya..disitu banyak dan lengkap lagu lagu uchh makin aku suport terus nih spotify thanks wassalam,5,0,"['thankyou', 'buat', 'yang', 'sudah', 'membuat', 'aplikasi', 'ini', 'terimakasih', 'banget', 'yadisitu', 'banyak', 'dan', 'lengkap', 'lagu', 'lagu', 'uchh', 'semakin', 'aku', 'suport', 'terus', 'nih', 'spotify', 'thanks', 'wassalam']",positive
+apk spotify ini bagus banget kalian juga harus download pas udah mau di ke bawah bnyk bnget lagu yg bagus klian harus download deh apk spotify ini nanti kalian ketagihan selmt mncoba,5,1,"['apk', 'spotify', 'ini', 'bagus', 'banget', 'kalian', 'juga', 'harus', 'download', 'pas', 'udah', 'mau', 'di', 'ke', 'bawah', 'bnyk', 'bnget', 'lagu', 'yang', 'bagus', 'klian', 'harus', 'download', 'deh', 'apk', 'spotify', 'ini', 'nanti', 'kalian', 'ketagihan', 'selmt', 'mncoba']",positive
+sangat enak di dengar oleh ku,5,0,"['sangat', 'enak', 'di', 'dengar', 'oleh', 'ku']",positive
+Saking banyaknya lagu aku sampai bikin playlist,5,0,"['saking', 'banyaknya', 'lagu', 'aku', 'sampai', 'bikin', 'playlist']",positive
+baik,5,0,['baik'],positive
+Semua lagu ada semua 👍👍,5,0,"['semua', 'lagu', 'ada', 'semua']",negative
+mantap dan lanjutkan,5,0,"['mantap', 'dan', 'lanjutkan']",positive
+cocok untuk ngedengerin lagu,5,0,"['cocok', 'untuk', 'ngedengerin', 'lagu']",positive
+"aku berlangganan bulan juni 2025, promo 2bulan Rp.60 rb sekian termasuk pajak, ternyata bulan juli 2025 sudah diputus. Mencoba di 22 Juli 2025 untuk berlangganan lagi, ternyata harus 3 bulan Rp. 120 ribu sekian. Jadi malas untuk berlangganan lagi.",3,3,"['aku', 'berlangganan', 'bulan', 'juni', 'promo', 'bulan', 'rp', 'rb', 'sekian', 'termasuk', 'pajak', 'ternyata', 'bulan', 'juli', 'sudah', 'diputus', 'mencoba', 'di', 'juli', 'untuk', 'berlangganan', 'lagi', 'ternyata', 'harus', 'bulan', 'rp', 'ribu', 'sekian', 'jadi', 'malas', 'untuk', 'berlangganan', 'lagi']",negative
+aku suka banget spotify. krn bisa bebas dengerin banyak musik. klo soal iklan ya masih wajarlah. dan lagi mau jd premium juga lebih murah daripada aplikasi sejenis lainnya. kalo bisa tambah teks lirik lagunya biar bisa sambil karaoke..,5,16,"['aku', 'suka', 'banget', 'spotify', 'krn', 'bisa', 'bebas', 'dengerin', 'banyak', 'musik', 'klo', 'soal', 'iklan', 'ya', 'masih', 'wajarlah', 'dan', 'lagi', 'mau', 'jd', 'premium', 'juga', 'lebih', 'murah', 'daripada', 'aplikasi', 'sejenis', 'lainnya', 'kalo', 'bisa', 'tambah', 'teks', 'lirik', 'lagunya', 'biar', 'bisa', 'sambil', 'karaoke']",positive
+Bgs tp sayang dikit2 hrs masuk ke premium bayar.,5,0,"['bgs', 'tp', 'sayang', 'dikit', 'hrs', 'masuk', 'ke', 'premium', 'bayar']",positive
+"Setiap hari dengerin lagu sih di spoti, trs bisa bikin playlist jg, saran nih, jangan sering sering muncul iklannya❤️🤲🤲🤲❤️🐱⚡🤲❤️❤️❤️❤️❤️",5,1,"['setiap', 'hari', 'dengerin', 'lagu', 'sih', 'di', 'spoti', 'terus', 'bisa', 'bikin', 'playlist', 'jg', 'saran', 'nih', 'jangan', 'sering', 'sering', 'muncul', 'iklannya']",neutral
+wajib banget nih yang suka dengerin lagu,5,0,"['wajib', 'banget', 'nih', 'yang', 'suka', 'dengerin', 'lagu']",positive
+"Aplikasinya sudah bagus, cuman kadang ngeleg gak bisa dimatiin Lagunya. Jadi harus pencet² terus, dan kalau di skip biasanya gak langsung ke skip. Tapi harus Nunggu lama banget, bikin kesel juga",5,553,"['aplikasinya', 'sudah', 'bagus', 'cuman', 'kadang', 'ngeleg', 'tidak', 'bisa', 'dimatiin', 'lagunya', 'jadi', 'harus', 'pencet', 'terus', 'dan', 'kalau', 'di', 'skip', 'biasanya', 'tidak', 'langsung', 'ke', 'skip', 'tapi', 'harus', 'nunggu', 'lama', 'banget', 'bikin', 'kesel', 'juga']",negative
+"ini tidak berguna, hannya bisa duputar online atau prabayar.",1,0,"['ini', 'tidak', 'berguna', 'hannya', 'bisa', 'duputar', 'online', 'atau', 'prabayar']",negative
+"offline terus, buka youtube lancar",1,0,"['offline', 'terus', 'buka', 'youtube', 'lancar']",neutral
+Ini kenapa sekarang jadi pay to listen Tiap ganti lagu harus premium tolong didengar ya,4,1,"['ini', 'kenapa', 'sekarang', 'jadi', 'pay', 'to', 'listen', 'tiap', 'ganti', 'lagu', 'harus', 'premium', 'tolong', 'didengar', 'ya']",negative
+Sangat bagus,5,0,"['sangat', 'bagus']",positive
+"Untuk yang tidak banyak tahu judul lagu,,spotify memudahkan mereka utk membuat list dari genre yang disuka dan sedang ingin didengarkan...",5,2,"['untuk', 'yang', 'tidak', 'banyak', 'tahu', 'judul', 'laguspotify', 'memudahkan', 'mereka', 'utk', 'membuat', 'list', 'dari', 'genre', 'yang', 'disuka', 'dan', 'sedang', 'ingin', 'didengarkan']",positive
+Seru,5,0,['seru'],negative
+The best 👍🏻👍🏻,5,0,"['the', 'best']",positive
+bagus dan tidak perlu bayar jika hanya mendegar kan nya,5,0,"['bagus', 'dan', 'tidak', 'perlu', 'bayar', 'jika', 'hanya', 'mendegar', 'kan', 'nya']",positive
+Oke,5,0,['oke'],positive
+"seru bgt terus bisa menemani aku mandi, jadi aku dah gak takut lagi deh🥰",5,0,"['seru', 'banget', 'terus', 'bisa', 'menemani', 'aku', 'mandi', 'jadi', 'aku', 'sudah', 'tidak', 'takut', 'lagi', 'deh']",positive
+Karena tidak bisa diputar jika tidak ada paket,4,0,"['karena', 'tidak', 'bisa', 'diputar', 'jika', 'tidak', 'ada', 'paket']",neutral
+ok,5,0,['ok'],negative
+sangat bagus dan memuaskan,5,0,"['sangat', 'bagus', 'dan', 'memuaskan']",positive
+keren banget aplikasi Spotify,5,0,"['keren', 'banget', 'aplikasi', 'spotify']",positive
+WOI KIKIR BANGET DI BATESIN PEMILIHAN LAGU NYA 6 PER HARI😂,2,0,"['woi', 'kikir', 'banget', 'di', 'batesin', 'pemilihan', 'lagu', 'nya', 'per', 'hari']",negative
+Bagus. Terus pertahankan.,5,0,"['bagus', 'terus', 'pertahankan']",positive
+Lagu yang ada di sportify sangat bagus dan enak di dengar,5,0,"['lagu', 'yang', 'ada', 'di', 'sportify', 'sangat', 'bagus', 'dan', 'enak', 'di', 'dengar']",positive
+"Tolong, kalau update tuh jangan kebangetan, awalnya liriknya dibatasi, sekarang malah putar2 lagu malah dibatasi, harus premium dulu, apa-apaan nih, spotify nih lama2 makin ngelunjak, katanya aplikasi musik, kok mau puter musik malah dibatasi sih perharinya, capek banget sama update tannya",2,33,"['tolong', 'kalau', 'update', 'tuh', 'jangan', 'kebangetan', 'awalnya', 'liriknya', 'dibatasi', 'sekarang', 'malah', 'putar', 'lagu', 'malah', 'dibatasi', 'harus', 'premium', 'dulu', 'apaapaan', 'nih', 'spotify', 'nih', 'lama', 'semakin', 'ngelunjak', 'katanya', 'aplikasi', 'musik', 'kok', 'mau', 'puter', 'musik', 'malah', 'dibatasi', 'sih', 'perharinya', 'capek', 'banget', 'sama', 'update', 'tannya']",negative
+baguss,5,0,['baguss'],positive
+Love this 😍😍😍 Bagi yang mau dimudahkan dalam pemutaran lagu bisa pake premium nya Ini juga ngedukung artis favorit kita lho,5,2,"['love', 'this', 'bagi', 'yang', 'mau', 'dimudahkan', 'dalam', 'pemutaran', 'lagu', 'bisa', 'pake', 'premium', 'nya', 'ini', 'juga', 'ngedukung', 'artis', 'favorit', 'kita', 'lho']",positive
+Oke,5,0,['oke'],positive
+udah gw uninstall.. aplikasi Dengerin IKLAN di selingi Musiikkk..!!!!!,1,1,"['udah', 'gw', 'uninstall', 'aplikasi', 'dengerin', 'iklan', 'di', 'selingi', 'musiikkk']",negative
+"please let us have personal settings to changed lyrics background, sometimes i got this bright lyrics background and it's hurting my eyes",4,0,"['please', 'let', 'us', 'have', 'personal', 'settings', 'to', 'changed', 'lyrics', 'background', 'sometimes', 'i', 'got', 'this', 'bright', 'lyrics', 'background', 'and', 'its', 'hurting', 'my', 'eyes']",positive
+Ini aplikasi bagus banget cocok buat setiap hari,5,0,"['ini', 'aplikasi', 'bagus', 'banget', 'cocok', 'buat', 'setiap', 'hari']",positive
+Aplikasinya nyebelin bgt awal download sih baik baik aja ehh sekarang gk bisa putar lagu kesukaanku gara gara premium apa apa premium gk apa gk premium 😡😡,1,2,"['aplikasinya', 'nyebelin', 'banget', 'awal', 'download', 'sih', 'baik', 'baik', 'saja', 'ehh', 'sekarang', 'gk', 'bisa', 'putar', 'lagu', 'kesukaanku', 'gara', 'gara', 'premium', 'apa', 'apa', 'premium', 'gk', 'apa', 'gk', 'premium']",negative
+bagus,5,0,['bagus'],positive
+Tolong kenakan musik saya terima kasih,5,0,"['tolong', 'kenakan', 'musik', 'saya', 'terima', 'kasih']",neutral
+ko tol,1,0,"['ko', 'tol']",neutral
+bagus tapi banyak iklan 🙏🙏🙏😭😭😭🤍. tolong dihilangkan biar tambah asik,4,0,"['bagus', 'tapi', 'banyak', 'iklan', 'tolong', 'dihilangkan', 'biar', 'tambah', 'asik']",negative
+the best,5,0,"['the', 'best']",positive
+bagus bgt,5,0,"['bagus', 'banget']",positive
+Kane buat rileks,5,0,"['kane', 'buat', 'rileks']",positive
+hufttt apk nya bagus tapi tolong lah admin jangan banyakin iklan oke lah kalo udah lama ada iklan inimah baru 2-3 langaung iklan apk haromm trus gw nyari lagu yang muncul ga sesuai ekspetasi banget tolong di benerin asww🙏🙏,1,0,"['hufttt', 'apk', 'nya', 'bagus', 'tapi', 'tolong', 'lah', 'admin', 'jangan', 'banyakin', 'iklan', 'oke', 'lah', 'kalo', 'udah', 'lama', 'ada', 'iklan', 'inimah', 'baru', 'langaung', 'iklan', 'apk', 'haromm', 'trus', 'gw', 'nyari', 'lagu', 'yang', 'muncul', 'tidak', 'sesuai', 'ekspetasi', 'banget', 'tolong', 'di', 'benerin', 'asww']",negative
+bagus cuma sering iklan,5,0,"['bagus', 'cuma', 'sering', 'iklan']",negative
+"Wah ternyata playlist nya dipublikasikan, kita buat playlist nanti didengar orang lain, good....bisa download lagu Indonesia dan mancanegara tanpa nyandet, lengkap dah semua....👍👍",5,15,"['wah', 'ternyata', 'playlist', 'nya', 'dipublikasikan', 'kita', 'buat', 'playlist', 'nanti', 'didengar', 'orang', 'lain', 'goodbisa', 'download', 'lagu', 'indonesia', 'dan', 'mancanegara', 'tanpa', 'nyandet', 'lengkap', 'sudah', 'semua']",positive
+nice app,5,0,"['nice', 'app']",positive
+Spotify bagus bangat lagu nya banyak lagu kesukaan aku laskar pelangi dan sempurna setiap malam aku dengerin lagu terimakasih spotiy aku suka lagu lagunya,5,0,"['spotify', 'bagus', 'bangat', 'lagu', 'nya', 'banyak', 'lagu', 'kesukaan', 'aku', 'laskar', 'pelangi', 'dan', 'sempurna', 'setiap', 'malam', 'aku', 'dengerin', 'lagu', 'terimakasih', 'spotiy', 'aku', 'suka', 'lagu', 'lagunya']",positive
+Seru.kita dapat memutar musik yg kita mau tapi sayang suka ada iklan yg muncul gitu aja mohon perbaiki iklan nya yaaa,5,2,"['serukita', 'dapat', 'memutar', 'musik', 'yang', 'kita', 'mau', 'tapi', 'sayang', 'suka', 'ada', 'iklan', 'yang', 'muncul', 'gitu', 'saja', 'mohon', 'perbaiki', 'iklan', 'nya', 'yaaa']",negative
+bikin mood akuu bgss,5,0,"['bikin', 'mood', 'akuu', 'bgss']",positive
+"Keren sih ini, bisa dengar banyak lagu, tapi di optimalkan buat admin nya tolong kurangin iklan nya, soalnya sekali putar lagu pasti ada iklan nya, tapi ttp bagus kok saya kasih bintang ⭐ 5",5,5,"['keren', 'sih', 'ini', 'bisa', 'dengar', 'banyak', 'lagu', 'tapi', 'di', 'optimalkan', 'buat', 'admin', 'nya', 'tolong', 'kurangin', 'iklan', 'nya', 'soalnya', 'sekali', 'putar', 'lagu', 'pasti', 'ada', 'iklan', 'nya', 'tapi', 'ttp', 'bagus', 'kok', 'saya', 'kasih', 'bintang']",positive
+"So far semua ok, cuma saya sangat menyarankan agar pembacaan surah2 Al Quran jangan masuk dalam list spotify. Itu ranah religius, jgn dicampur dengan lagu lagu yang murni hanya untuk hiburan",5,12,"['so', 'far', 'semua', 'ok', 'cuma', 'saya', 'sangat', 'menyarankan', 'agar', 'pembacaan', 'surah', 'al', 'quran', 'jangan', 'masuk', 'dalam', 'list', 'spotify', 'itu', 'ranah', 'religius', 'jgn', 'dicampur', 'dengan', 'lagu', 'lagu', 'yang', 'murni', 'hanya', 'untuk', 'hiburan']",negative
+bagus dan sangat membantu,5,0,"['bagus', 'dan', 'sangat', 'membantu']",positive
+iklan terus,1,0,"['iklan', 'terus']",negative
+Bisa menikmati musik kapan saja,5,0,"['bisa', 'menikmati', 'musik', 'kapan', 'saja']",positive
+"Aku suka banget sm lagu nya aku ngerasa ditemenin walau cm sm lagu tapi rasanya kayak aku tuh punya temen, setiap denger lagu aku ngerasa ada orang yang nenangin aku i love it",5,3,"['aku', 'suka', 'banget', 'sm', 'lagu', 'nya', 'aku', 'ngerasa', 'ditemenin', 'walau', 'cm', 'sm', 'lagu', 'tapi', 'rasanya', 'kayak', 'aku', 'tuh', 'punya', 'temen', 'setiap', 'denger', 'lagu', 'aku', 'ngerasa', 'ada', 'orang', 'yang', 'nenangin', 'aku', 'i', 'love', 'it']",positive
+Bagus,5,0,['bagus'],positive
+"Suka banget sama aplikasi Spotify... Mau dengar lagu gampang, dan lagunya banyak bagusnya.😍😍👍👍",5,0,"['suka', 'banget', 'sama', 'aplikasi', 'spotify', 'mau', 'dengar', 'lagu', 'gampang', 'dan', 'lagunya', 'banyak', 'bagusnya']",positive
+Bagus,5,1,['bagus'],positive
+"Iklan memang mengganggu, tapi selain itu aplikasi ini bagus, mudah digunakan, lagunya update dan sangat banyaak!",5,3,"['iklan', 'memang', 'mengganggu', 'tapi', 'selain', 'itu', 'aplikasi', 'ini', 'bagus', 'mudah', 'digunakan', 'lagunya', 'update', 'dan', 'sangat', 'banyaak']",positive
+"MALES BANGET SUMPAH MAU NANGISS, beli premium udh, tapi setiap denger musik diluar apknya ga lama malah mati harus balik lagi denger ulang kalau semisalnya lagi di part favorit kan ga enak ☹️☹️",3,2,"['males', 'banget', 'sumpah', 'mau', 'nangiss', 'beli', 'premium', 'sudah', 'tapi', 'setiap', 'denger', 'musik', 'diluar', 'apknya', 'tidak', 'lama', 'malah', 'mati', 'harus', 'balik', 'lagi', 'denger', 'ulang', 'kalau', 'semisalnya', 'lagi', 'di', 'part', 'favorit', 'kan', 'tidak', 'enak']",negative
+kueren,4,0,['kueren'],positive
+Good,5,0,['good'],positive
+"Mudah""han lagu terbaru atau dj cepat dimasukkan kan ke aplikasi ini biar bisa dengar",5,3,"['mudahhan', 'lagu', 'terbaru', 'atau', 'dj', 'cepat', 'dimasukkan', 'kan', 'ke', 'aplikasi', 'ini', 'biar', 'bisa', 'dengar']",neutral
+iklan ny bnyk bgt,1,0,"['iklan', 'ny', 'bnyk', 'banget']",positive
+bagus banget banyak lagu walau gak pake premium jadi bisa galau hehe,5,1,"['bagus', 'banget', 'banyak', 'lagu', 'walau', 'tidak', 'pake', 'premium', 'jadi', 'bisa', 'galau', 'hehe']",positive
+"halo mohon maaf atas pemberian bintang 3 nya. hanya saja Spotify saya tidak melampirkan lirik lagu, meskipun saya sudah berlangganan. tolong di fix, karena saya merasa sangat tidak nyaman dengan tidak adanya lirik lagu yang tertera.",3,4,"['halo', 'mohon', 'maaf', 'atas', 'pemberian', 'bintang', 'nya', 'hanya', 'saja', 'spotify', 'saya', 'tidak', 'melampirkan', 'lirik', 'lagu', 'meskipun', 'saya', 'sudah', 'berlangganan', 'tolong', 'di', 'fix', 'karena', 'saya', 'merasa', 'sangat', 'tidak', 'nyaman', 'dengan', 'tidak', 'adanya', 'lirik', 'lagu', 'yang', 'tertera']",negative
+"spotify sangat bagus, saran agar diberi label lirik sehingga bisa enjoy mendengarkan lagu sambil menyanyi. thx :)",5,0,"['spotify', 'sangat', 'bagus', 'saran', 'agar', 'diberi', 'label', 'lirik', 'sehingga', 'bisa', 'enjoy', 'mendengarkan', 'lagu', 'sambil', 'menyanyi', 'thx']",positive
+good,4,0,['good'],positive
+Ini kenapa gak bisa di download ya Padahal aku udah hapusin sampah sampah nya Tapi gak papa. Karena... Aplikasi ini bagusss bangett Aku sukaa sama aplikasi ini Aku berterima kasihhhh sekaliii Karena sudah membuat kan aplikasi iniii,5,0,"['ini', 'kenapa', 'tidak', 'bisa', 'di', 'download', 'ya', 'padahal', 'aku', 'udah', 'hapusin', 'sampah', 'sampah', 'nya', 'tapi', 'tidak', 'papa', 'karena', 'aplikasi', 'ini', 'bagusss', 'banget', 'aku', 'sukaa', 'sama', 'aplikasi', 'ini', 'aku', 'berterima', 'kasihhhh', 'sekaliii', 'karena', 'sudah', 'membuat', 'kan', 'aplikasi', 'iniii']",positive
+terimakasih sudah menimani saya ketika lagi dibutuhkan,5,0,"['terimakasih', 'sudah', 'menimani', 'saya', 'ketika', 'lagi', 'dibutuhkan']",positive
+Bagus banget tapi Spotify tu bikin baterai hp ku cepet habis tapi kualitasnya bagus banget dan buat hp ku panas,3,0,"['bagus', 'banget', 'tapi', 'spotify', 'tu', 'bikin', 'baterai', 'hp', 'ku', 'cepet', 'habis', 'tapi', 'kualitasnya', 'bagus', 'banget', 'dan', 'buat', 'hp', 'ku', 'panas']",positive
+Well,5,0,['well'],negative
+sangat bagus,5,0,"['sangat', 'bagus']",positive
+Good App.... 👍👍👍GBU,5,0,"['good', 'app', 'gbu']",positive
+mantal dah,5,0,"['mantal', 'sudah']",negative
+paket premium mininya jangan dihapus dong,1,0,"['paket', 'premium', 'mininya', 'jangan', 'dihapus', 'dong']",negative
+Playlist terbaik,5,0,"['playlist', 'terbaik']",positive
+Mantappp,5,0,['mantappp'],positive
+"iklan K-pop tuh kurangin, cringe 😒",4,0,"['iklan', 'kpop', 'tuh', 'kurangin', 'cringe']",negative
+makasih telah mewakili perasaan saya,4,0,"['makasih', 'telah', 'mewakili', 'perasaan', 'saya']",neutral
+mantap,5,0,['mantap'],positive
+keren,5,0,['keren'],positive
+good,5,0,['good'],positive
+senang dan sangat baik,5,0,"['senang', 'dan', 'sangat', 'baik']",positive
+"sangat bagus, dan saya suka fitur nya",5,0,"['sangat', 'bagus', 'dan', 'saya', 'suka', 'fitur', 'nya']",positive
+Lumayan juga lh ya tapi agak di kurangi dong iklan nya,4,0,"['lumayan', 'juga', 'lh', 'ya', 'tapi', 'agak', 'di', 'kurangi', 'dong', 'iklan', 'nya']",negative
+"mantap,, 👍",5,0,['mantap'],positive
+"kebanyakan iklan,jadi ke ganggu",1,0,"['kebanyakan', 'iklanjadi', 'ke', 'ganggu']",negative
+kikir,1,0,['kikir'],negative
+Cukup menghibur...saat santai...koleksi lg cukip variatif,5,0,"['cukup', 'menghibursaat', 'santaikoleksi', 'lg', 'cukip', 'variatif']",positive
+Asik banget,5,0,"['asik', 'banget']",positive
+Walaupun sebenarnya iklannya banyak tp gpp karna di apk ini seruuu banget semoga bisa tambah maju yaaa :),5,0,"['walaupun', 'sebenarnya', 'iklannya', 'banyak', 'tp', 'gpp', 'karna', 'di', 'apk', 'ini', 'seruuu', 'banget', 'semoga', 'bisa', 'tambah', 'maju', 'yaaa']",positive
+kukasih 4 Bintang aja ya bos... soalnya banyak kali iklan nya,4,0,"['kukasih', 'bintang', 'saja', 'ya', 'bos', 'soalnya', 'banyak', 'kali', 'iklan', 'nya']",negative
+kenapa aplikasi nya hilang di layar sih ?,4,0,"['kenapa', 'aplikasi', 'nya', 'hilang', 'di', 'layar', 'sih']",negative
+"pilihan musiknya secara random, milih lagunya ngga enak terus itu itu aja lagunya yang di puter",1,1,"['pilihan', 'musiknya', 'secara', 'random', 'milih', 'lagunya', 'ngga', 'enak', 'terus', 'itu', 'itu', 'saja', 'lagunya', 'yang', 'di', 'puter']",negative
+enak utk menemani kepenatan kalo bs tambah lagu yg lama dan terhits tiap tahun nya,5,0,"['enak', 'utk', 'menemani', 'kepenatan', 'kalo', 'bs', 'tambah', 'lagu', 'yang', 'lama', 'dan', 'terhits', 'tiap', 'tahun', 'nya']",positive
+lagunya update dan terkini,5,0,"['lagunya', 'update', 'dan', 'terkini']",positive
+Mantap,5,0,['mantap'],positive
+paling asikkk,5,0,"['paling', 'asikkk']",positive
+nice,5,0,['nice'],positive
+Keren,5,0,['keren'],positive
+bagus,5,0,['bagus'],positive
+bagus,5,0,['bagus'],positive
+"Yg lagi galau mau dengerin musik rekomended,atau yg suka dengerin lagu silakan dowlod Spotify dijamin lebih membantu untuk dengerin berbagai jenis lagu",5,3,"['yang', 'lagi', 'galau', 'mau', 'dengerin', 'musik', 'rekomendedatau', 'yang', 'suka', 'dengerin', 'lagu', 'silakan', 'dowlod', 'spotify', 'dijamin', 'lebih', 'membantu', 'untuk', 'dengerin', 'berbagai', 'jenis', 'lagu']",positive
+"baguss banget ak udh pake selama 2 tahunn. Ak puas banget sama apknya, tapi ada 1 bug yaitu lagu yang keputar ada yang ga sesuai di playlist, dan ak mau minta alarm tidurnya bisa ga lagunya yang mau kita putar aja selama tidur itu jadi gausah di ganti..",5,58,"['baguss', 'banget', 'ak', 'sudah', 'pake', 'selama', 'tahunn', 'ak', 'puas', 'banget', 'sama', 'apknya', 'tapi', 'ada', 'bug', 'yaitu', 'lagu', 'yang', 'keputar', 'ada', 'yang', 'tidak', 'sesuai', 'di', 'playlist', 'dan', 'ak', 'mau', 'minta', 'alarm', 'tidurnya', 'bisa', 'tidak', 'lagunya', 'yang', 'mau', 'kita', 'putar', 'saja', 'selama', 'tidur', 'itu', 'jadi', 'gausah', 'di', 'ganti']",positive
+Topppp,5,0,['topppp'],positive
+"Sebenarnya iklan yang banyak karena non premium itu gapapa, yang masalah tu batas putar harian tu lo, kayak mau milih lagu ada batasnya, malah bikin fitur non premium makin dikit, + developer juga ga peduli sama saran yang ada di play store ini, jadi yaudah tingkatin lah",2,5,"['sebenarnya', 'iklan', 'yang', 'banyak', 'karena', 'non', 'premium', 'itu', 'gapapa', 'yang', 'masalah', 'tu', 'batas', 'putar', 'harian', 'tu', 'lo', 'kayak', 'mau', 'milih', 'lagu', 'ada', 'batasnya', 'malah', 'bikin', 'fitur', 'non', 'premium', 'semakin', 'dikit', 'developer', 'juga', 'tidak', 'peduli', 'sama', 'saran', 'yang', 'ada', 'di', 'play', 'store', 'ini', 'jadi', 'yaudah', 'tingkatin', 'lah']",negative
+Enak banget lagi lagu nya,5,0,"['enak', 'banget', 'lagi', 'lagu', 'nya']",positive
+bagus banget lagunya aku suka sekali 😍😍🥰😍😍😍😏😏😏😍😍🥰😍🥰😍🥰🥰🥰🥰😍🥰😍🥰😍🥰😍🥰😍🥰🌈🌈🌈🌈🌈🌈🌈🌈🌈💰💰💰💰💰💸💸💸💸❤️❤️❤️❤️❤️❤️❤️,5,0,"['bagus', 'banget', 'lagunya', 'aku', 'suka', 'sekali']",positive
+mantapp,5,0,['mantapp'],positive
+"saya peminat Spotify dari dulu masalah cuman satu Spotify saya gak bisa lepas dari offline nya padahal saya online, payah keluar dari akun berulah udh hapus cache gak bisa tolong lah saya udh sayang sama akun saya",1,1,"['saya', 'peminat', 'spotify', 'dari', 'dulu', 'masalah', 'cuman', 'satu', 'spotify', 'saya', 'tidak', 'bisa', 'lepas', 'dari', 'offline', 'nya', 'padahal', 'saya', 'online', 'payah', 'keluar', 'dari', 'akun', 'berulah', 'sudah', 'hapus', 'cache', 'tidak', 'bisa', 'tolong', 'lah', 'saya', 'sudah', 'sayang', 'sama', 'akun', 'saya']",positive
+bikin ngerasa hidup menjadi lebih sedikit ringan 😘😘🤩🤩🤩,5,0,"['bikin', 'ngerasa', 'hidup', 'menjadi', 'lebih', 'sedikit', 'ringan']",negative
+Puassss...,5,0,['puassss'],positive
+Aplikasi ini sangat bagus dan bisa untuk dimain kan pas jaringan nya agak buruk tapi pokok nya spotify the best,5,1,"['aplikasi', 'ini', 'sangat', 'bagus', 'dan', 'bisa', 'untuk', 'dimain', 'kan', 'pas', 'jaringan', 'nya', 'agak', 'buruk', 'tapi', 'pokok', 'nya', 'spotify', 'the', 'best']",positive
+Aplikasi yg mantap dan hemat👍,5,0,"['aplikasi', 'yang', 'mantap', 'dan', 'hemat']",positive
+bagus banget,5,0,"['bagus', 'banget']",positive
+bagus,5,0,['bagus'],positive
+okeyy bagus,5,0,"['okeyy', 'bagus']",positive
+Admin tolong dong kenapa podcast you can see what I see dari eps 19 dan seterusnya gak bisa di play??? Saya jgk uda upgrade Pleasee respon yaa,5,8,"['admin', 'tolong', 'dong', 'kenapa', 'podcast', 'you', 'can', 'see', 'what', 'i', 'see', 'dari', 'eps', 'dan', 'seterusnya', 'tidak', 'bisa', 'di', 'play', 'saya', 'jgk', 'uda', 'upgrade', 'pleasee', 'respon', 'yaa']",negative
+oke,4,0,['oke'],positive
+saya suka,5,0,"['saya', 'suka']",positive
+"Baik , bagus",5,0,"['baik', 'bagus']",positive
+"dikit dikit premium malas lh iklan nya banyak lgi 'lagi capek ya' IYA CAPEK sama iklan + premium nya, mau ganti lagi di suruh premium",2,0,"['dikit', 'dikit', 'premium', 'malas', 'lh', 'iklan', 'nya', 'banyak', 'lgi', 'lagi', 'capek', 'ya', 'iya', 'capek', 'sama', 'iklan', 'premium', 'nya', 'mau', 'ganti', 'lagi', 'di', 'suruh', 'premium']",negative
+"buat lah premium yg satu bulan, aku males beli yg 54rb 3 bulan",3,0,"['buat', 'lah', 'premium', 'yang', 'satu', 'bulan', 'aku', 'males', 'beli', 'yang', 'rb', 'bulan']",negative
+"Bener"" pay to win hidup sekarang , masa ngulang lagu aja harus premium😢",1,1,"['bener', 'pay', 'to', 'win', 'hidup', 'sekarang', 'masa', 'ngulang', 'lagu', 'saja', 'harus', 'premium']",negative
+Apk manis pokonya mah kaya madu,5,0,"['apk', 'manis', 'pokonya', 'mah', 'kaya', 'madu']",positive
+kikir,1,0,['kikir'],negative
+jelek,1,0,['jelek'],negative
+Iklan terlalu sering muncul,3,0,"['iklan', 'terlalu', 'sering', 'muncul']",negative
+Sangat bagus dan bisa di matiin walaupun masih nyala lagunya mantap bgt!,5,0,"['sangat', 'bagus', 'dan', 'bisa', 'di', 'matiin', 'walaupun', 'masih', 'nyala', 'lagunya', 'mantap', 'banget']",positive
+mantap bgttt,5,0,"['mantap', 'bgttt']",positive
+Spotify bagus bangettt bisa dengerin lagu sambil rebahan lagu nya TOP deh semangat terus ya spotify terima kasih,5,2,"['spotify', 'bagus', 'bangettt', 'bisa', 'dengerin', 'lagu', 'sambil', 'rebahan', 'lagu', 'nya', 'top', 'deh', 'semangat', 'terus', 'ya', 'spotify', 'terima', 'kasih']",positive
+ada kendala setiap lagu selesai akan berhenti dan tidak tershuffle dan harus diplay manual,1,0,"['ada', 'kendala', 'setiap', 'lagu', 'selesai', 'akan', 'berhenti', 'dan', 'tidak', 'tershuffle', 'dan', 'harus', 'diplay', 'manual']",negative
+sangat bagus,1,0,"['sangat', 'bagus']",positive
+musik nya bagus² tapi aura nya gak kerasa mintak tolong lagunya yang kerasa aura galaunya,4,1,"['musik', 'nya', 'bagus', 'tapi', 'aura', 'nya', 'tidak', 'kerasa', 'mintak', 'tolong', 'lagunya', 'yang', 'kerasa', 'aura', 'galaunya']",positive
+Spotify saya tidak merespon knpa yaa??,1,0,"['spotify', 'saya', 'tidak', 'merespon', 'knpa', 'yaa']",negative
+iklannya banyak poll G bisa milih mau lanjut denger yg mana wajib premium,3,0,"['iklannya', 'banyak', 'poll', 'g', 'bisa', 'milih', 'mau', 'lanjut', 'denger', 'yang', 'mana', 'wajib', 'premium']",negative
+"banyak lagu lagu favorite aku jadi ak gausah liat tiktok lagi untuk liat lagu, ak kasih rat 5 aku suka aplikasinya",5,3,"['banyak', 'lagu', 'lagu', 'favorite', 'aku', 'jadi', 'ak', 'gausah', 'liat', 'tiktok', 'lagi', 'untuk', 'liat', 'lagu', 'ak', 'kasih', 'rat', 'aku', 'suka', 'aplikasinya']",positive
+"bgus, tpi iklan keseringan",4,0,"['bgus', 'tpi', 'iklan', 'keseringan']",negative
+padek(bagus),5,0,['padekbagus'],positive
+Bgus,1,0,['bgus'],positive
+"Saya sangat puas dengan Aplikasi ini yg skarng saya gunakan..Kreennnn lah pokoknya,yg lain Aplikasi nya ketinggalan...Spotify slalu didepan,Ngaciirrrr",5,0,"['saya', 'sangat', 'puas', 'dengan', 'aplikasi', 'ini', 'yang', 'skarng', 'saya', 'gunakankreennnn', 'lah', 'pokoknyayg', 'lain', 'aplikasi', 'nya', 'ketinggalanspotify', 'slalu', 'didepanngaciirrrr']",positive
+jujur aku setiap dengerin lagu selalu dapet iklan terus,5,0,"['jujur', 'aku', 'setiap', 'dengerin', 'lagu', 'selalu', 'dapet', 'iklan', 'terus']",positive
+mantap,5,0,['mantap'],positive
+kenapa harus update terus siih  cukup sudah updatenya jelek bnget siih 🤬🤬🤬👎👎👎,1,0,"['kenapa', 'harus', 'update', 'terus', 'siih', 'cukup', 'sudah', 'updatenya', 'jelek', 'bnget', 'siih']",negative
+mantap,5,0,['mantap'],positive
+gangguang mulu,1,0,"['gangguang', 'mulu']",negative
+"lagu 9999+, bug kaga diurus wkwkwkkwk",1,0,"['lagu', 'bug', 'kaga', 'diurus', 'wkwkwkkwk']",negative
+"kesel bngt cok setiap gua dengerin lagu favorit gua baru satu lagu langsung lagu yang gua gk favoritin anjir plis lah klo kita dengerin lagu favorit tuh bnre"" cuma favorit gk ush yang rekomendasi""",2,0,"['kesel', 'bngt', 'cok', 'setiap', 'gua', 'dengerin', 'lagu', 'favorit', 'gua', 'baru', 'satu', 'lagu', 'langsung', 'lagu', 'yang', 'gua', 'gk', 'favoritin', 'anjir', 'plis', 'lah', 'klo', 'kita', 'dengerin', 'lagu', 'favorit', 'tuh', 'bnre', 'cuma', 'favorit', 'gk', 'ush', 'yang', 'rekomendasi']",negative
+bguss,5,0,['bguss'],positive
+bintang lima pokok nya,5,0,"['bintang', 'lima', 'pokok', 'nya']",positive
+"Dengerin musik ga pakai ribet, lebih bagus lagi harga premiumnya dikurangin dikit, ga semua orang bisa beli premium soalnya 👍🙏🏻",4,4,"['dengerin', 'musik', 'tidak', 'pakai', 'ribet', 'lebih', 'bagus', 'lagi', 'harga', 'premiumnya', 'dikurangin', 'dikit', 'tidak', 'semua', 'orang', 'bisa', 'beli', 'premium', 'soalnya']",positive
+good but less ads,5,0,"['good', 'but', 'less', 'ads']",positive
+asik,5,0,['asik'],positive
+Kons,1,0,['kons'],negative
+"Saya sudah muak dengan batasan batasan opsi pada Spotify, untuk mode acak saya tidak perduli,, tetapi saya paling muak ketika melihat batasan untuk memutar musik, bagaimana mau menambahkan musik yang di sukai jika musiknya saja tak bisa di putar dan hanya mengikuti kemauannya Spotify,, ini sama dengan bohong memilih musik di spotify, ini namanya Spotify terlalu ngatur ngatur dan maksa ke premium, sebelum batasan itu di hapus saya gak bakal pernah pakai Spotify lagi!!! Dan pindah ke vidmate saja.",2,113,"['saya', 'sudah', 'muak', 'dengan', 'batasan', 'batasan', 'opsi', 'pada', 'spotify', 'untuk', 'mode', 'acak', 'saya', 'tidak', 'perduli', 'tetapi', 'saya', 'paling', 'muak', 'ketika', 'melihat', 'batasan', 'untuk', 'memutar', 'musik', 'bagaimana', 'mau', 'menambahkan', 'musik', 'yang', 'di', 'sukai', 'jika', 'musiknya', 'saja', 'tak', 'bisa', 'di', 'putar', 'dan', 'hanya', 'mengikuti', 'kemauannya', 'spotify', 'ini', 'sama', 'dengan', 'bohong', 'memilih', 'musik', 'di', 'spotify', 'ini', 'namanya', 'spotify', 'terlalu', 'ngatur', 'ngatur', 'dan', 'maksa', 'ke', 'premium', 'sebelum', 'batasan', 'itu', 'di', 'hapus', 'saya', 'tidak', 'bakal', 'pernah', 'pakai', 'spotify', 'lagi', 'dan', 'pindah', 'ke', 'vidmate', 'saja']",negative
+banyak iklan nya,1,0,"['banyak', 'iklan', 'nya']",positive
+"Mantap banget!!! Tapi tolong jangan terlalu sering banyak iklan, sangat mengganggu. Mohon pengertiannya.",5,2,"['mantap', 'banget', 'tapi', 'tolong', 'jangan', 'terlalu', 'sering', 'banyak', 'iklan', 'sangat', 'mengganggu', 'mohon', 'pengertiannya']",negative
+nice,5,0,['nice'],positive
+goodd,5,0,['goodd'],positive
+Bagus dan lengkap,5,0,"['bagus', 'dan', 'lengkap']",positive
+Gapa,5,0,['gapa'],positive
+Bagus,5,0,['bagus'],positive
+sukaaa,5,0,['sukaaa'],positive
+"seru banget dengerin lagunya,tapi malesnya kalo mau premium harus bayar 🙄",4,0,"['seru', 'banget', 'dengerin', 'lagunyatapi', 'malesnya', 'kalo', 'mau', 'premium', 'harus', 'bayar']",negative
+Lah lagu Rusia malah aneh ada lagu janco# pristel🗿🗿🗿🗿,5,0,"['lah', 'lagu', 'rusia', 'malah', 'aneh', 'ada', 'lagu', 'janco', 'pristel']",negative
+"Bagus cuk , ga ada iklan banyak terus kalau nyari lagu langsung bisa pokoknya ini bagus cuk",5,4,"['bagus', 'cuk', 'tidak', 'ada', 'iklan', 'banyak', 'terus', 'kalau', 'nyari', 'lagu', 'langsung', 'bisa', 'pokoknya', 'ini', 'bagus', 'cuk']",positive
+"Bagus Banget Nih Aplikasi, saya bisa dengerin full lagu nya kokoronashi sama yang lainnya, tapi tolong perbaiki kok gak ada share ke galeri? Maaf ya, bagus banget kok ini. 💖",5,4,"['bagus', 'banget', 'nih', 'aplikasi', 'saya', 'bisa', 'dengerin', 'full', 'lagu', 'nya', 'kokoronashi', 'sama', 'yang', 'lainnya', 'tapi', 'tolong', 'perbaiki', 'kok', 'tidak', 'ada', 'share', 'ke', 'galeri', 'maaf', 'ya', 'bagus', 'banget', 'kok', 'ini']",negative
+pay to hear ini mah,1,0,"['pay', 'to', 'hear', 'ini', 'mah']",positive
+Aplikasinya bagus tapi tidak online.Tapi bagus kok semua lagi bisa diputar kecuali yg artis cover itu baru gk bs hrs penciptanya asli,5,2,"['aplikasinya', 'bagus', 'tapi', 'tidak', 'onlinetapi', 'bagus', 'kok', 'semua', 'lagi', 'bisa', 'diputar', 'kecuali', 'yang', 'artis', 'cover', 'itu', 'baru', 'gk', 'bs', 'hrs', 'penciptanya', 'asli']",negative
+Bangus cuma saya pas beli premium ga bisa pake saldo google play,5,0,"['bangus', 'cuma', 'saya', 'pas', 'beli', 'premium', 'tidak', 'bisa', 'pake', 'saldo', 'google', 'play']",neutral
+bagus,5,0,['bagus'],positive
+terlalu banyak iklan penawaran premium sampai muak dengar nya maaf saya uninstal,1,1,"['terlalu', 'banyak', 'iklan', 'penawaran', 'premium', 'sampai', 'muak', 'dengar', 'nya', 'maaf', 'saya', 'uninstal']",negative
+"sangat"" bagus,karena mudah mendengar dan mencari lagu yang diinginkan",5,0,"['sangat', 'baguskarena', 'mudah', 'mendengar', 'dan', 'mencari', 'lagu', 'yang', 'diinginkan']",positive
+baguss banget tapi banyak iklannn,4,0,"['baguss', 'banget', 'tapi', 'banyak', 'iklannn']",negative
+"Menyenangkan, mudah mencari lagu yg diinginkan, mudah membuat playlist lagu favorit ai luv u full dahhh ahh ahh hahahaha",5,2,"['menyenangkan', 'mudah', 'mencari', 'lagu', 'yang', 'diinginkan', 'mudah', 'membuat', 'playlist', 'lagu', 'favorit', 'ai', 'luv', 'u', 'full', 'dahhh', 'ahh', 'ahh', 'hahahaha']",positive
+iklan nya sekarang jadi 4 kali berturut-turut bjirrrr,2,0,"['iklan', 'nya', 'sekarang', 'jadi', 'kali', 'berturutturut', 'bjirrrr']",positive
+"Keren... Mantap... Saya dapat rekomendasi dari anak saya, kata anak saya ""kalau mau mendengarkan musik bagus pakai aplikasi spotify"" Meskipun banyak iklan nya tidak apa-apa, saya bisa dengerin album nya padi Terimakasih",5,0,"['keren', 'mantap', 'saya', 'dapat', 'rekomendasi', 'dari', 'anak', 'saya', 'kata', 'anak', 'saya', 'kalau', 'mau', 'mendengarkan', 'musik', 'bagus', 'pakai', 'aplikasi', 'spotify', 'meskipun', 'banyak', 'iklan', 'nya', 'tidak', 'apaapa', 'saya', 'bisa', 'dengerin', 'album', 'nya', 'padi', 'terimakasih']",positive
+Semakin kecewa play list GK beraturan. Saya sudah berlangganan premium Masih saja mode acak,2,5,"['semakin', 'kecewa', 'play', 'list', 'gk', 'beraturan', 'saya', 'sudah', 'berlangganan', 'premium', 'masih', 'saja', 'mode', 'acak']",negative
+sangat menostalgia😌😌,5,0,"['sangat', 'menostalgia']",positive
+bagus tapi harus premium dulu biar tidak ada iklan tidak sedikit juga lagunya tidak menampilkan lirik tapi aplikasi sangat membantu,4,1,"['bagus', 'tapi', 'harus', 'premium', 'dulu', 'biar', 'tidak', 'ada', 'iklan', 'tidak', 'sedikit', 'juga', 'lagunya', 'tidak', 'menampilkan', 'lirik', 'tapi', 'aplikasi', 'sangat', 'membantu']",positive
+[GOOD] [100%] [COOL],5,0,"['good', 'cool']",positive
+Saya sudah beli spotify premium kok tetep gk bisa ya tolong kasih tau caranya tau katanya kalo dah beli paket premium bisa dengerin musik tanpa di acak,3,2,"['saya', 'sudah', 'beli', 'spotify', 'premium', 'kok', 'tetep', 'gk', 'bisa', 'ya', 'tolong', 'kasih', 'tau', 'caranya', 'tau', 'katanya', 'kalo', 'sudah', 'beli', 'paket', 'premium', 'bisa', 'dengerin', 'musik', 'tanpa', 'di', 'acak']",neutral
+Bagus,5,0,['bagus'],positive
+Media musik terbaik,5,0,"['media', 'musik', 'terbaik']",positive
+sangat bagus,5,0,"['sangat', 'bagus']",positive
+This song is perfect,5,0,"['this', 'song', 'is', 'perfect']",positive
+saya tidak bisa daftar aneh,1,0,"['saya', 'tidak', 'bisa', 'daftar', 'aneh']",neutral
+"Cukup memghibur kala senjang, waktu olahtaga, jalan, atau dirumah. Aplikasi simpel, tapi berarti. Thanks",5,10,"['cukup', 'memghibur', 'kala', 'senjang', 'waktu', 'olahtaga', 'jalan', 'atau', 'dirumah', 'aplikasi', 'simpel', 'tapi', 'berarti', 'thanks']",positive
+Suka sama aplikasinya,5,0,"['suka', 'sama', 'aplikasinya']",positive
+Spotify adalah apk untuk mendengarkan yang paling terbaik menurut saya,5,1,"['spotify', 'adalah', 'apk', 'untuk', 'mendengarkan', 'yang', 'paling', 'terbaik', 'menurut', 'saya']",positive
+"untuk musik bagus dan banyak,serta gratis,akan tetapi masih banyak lagu yang apa bila di cari tidak ada/lagu lain yang muncul,tolong dibetul kan hanya itu saja keluhan nya,untuk musik aplikasi ini sangat bagus",5,0,"['untuk', 'musik', 'bagus', 'dan', 'banyakserta', 'gratisakan', 'tetapi', 'masih', 'banyak', 'lagu', 'yang', 'apa', 'bila', 'di', 'cari', 'tidak', 'adalagu', 'lain', 'yang', 'muncultolong', 'dibetul', 'kan', 'hanya', 'itu', 'saja', 'keluhan', 'nyauntuk', 'musik', 'aplikasi', 'ini', 'sangat', 'bagus']",positive
+Sangat membantu untuk mendengarkan lagu2 barun👍👍👍,5,0,"['sangat', 'membantu', 'untuk', 'mendengarkan', 'lagu', 'barun']",positive
+musiknya keren²🥰,5,0,"['musiknya', 'keren']",positive
+💯%💝🇲🇨 love it asli jo fake cinta,5,0,"['love', 'it', 'asli', 'jo', 'fake', 'cinta']",negative
+bagus,5,0,['bagus'],positive
+Good👍👍,5,0,['good'],positive
+iklan nya kurangin,4,0,"['iklan', 'nya', 'kurangin']",positive
+sangat memuaskan,5,0,"['sangat', 'memuaskan']",positive
+"Banyak lagu nya, and jaringan jelek juga masih bisa teep jalan walau aga lemot hehe",5,0,"['banyak', 'lagu', 'nya', 'and', 'jaringan', 'jelek', 'juga', 'masih', 'bisa', 'teep', 'jalan', 'walau', 'aga', 'lemot', 'hehe']",negative
+"Aplikasi ter favorit,iklannya tidak mengganggu.lagu lagunya juga lengkap dan update.menyediakan paket premium dengan harga yang terjangkau.sukses terus spotify",5,3,"['aplikasi', 'ter', 'favoritiklannya', 'tidak', 'mengganggulagu', 'lagunya', 'juga', 'lengkap', 'dan', 'updatemenyediakan', 'paket', 'premium', 'dengan', 'harga', 'yang', 'terjangkausukses', 'terus', 'spotify']",positive
+"baguss bangett!! walaupunn ada iklan bentaran doankk! hehee.., enakkan download spotify, dri pada yg lainn, spotifyy hanyaa adaa dii hatii..kuu💗",5,1,"['baguss', 'banget', 'walaupunn', 'ada', 'iklan', 'bentaran', 'doankk', 'hehee', 'enakkan', 'download', 'spotify', 'dri', 'pada', 'yang', 'lainn', 'spotifyy', 'hanyaa', 'adaa', 'dii', 'hatiikuu']",positive
+"Rangking BT,lima",5,0,"['rangking', 'btlima']",negative
+"Suka banget pake Spotify. Lagunya lengkap, kualitas musiknya n Bagus, jadi mudah untuk streaming lagu. The best lah",5,0,"['suka', 'banget', 'pake', 'spotify', 'lagunya', 'lengkap', 'kualitas', 'musiknya', 'n', 'bagus', 'jadi', 'mudah', 'untuk', 'streaming', 'lagu', 'the', 'best', 'lah']",positive
+Sumpah aplikasinya bagus kualitas musik nya juga bagus dan musiknya lengkap apa lagi berlangganan yang Premiumnya pokoknya gak nyesel dah gw download aplikasi ini,5,5,"['sumpah', 'aplikasinya', 'bagus', 'kualitas', 'musik', 'nya', 'juga', 'bagus', 'dan', 'musiknya', 'lengkap', 'apa', 'lagi', 'berlangganan', 'yang', 'premiumnya', 'pokoknya', 'tidak', 'nyesel', 'sudah', 'gw', 'download', 'aplikasi', 'ini']",positive
+mdh dlm musik.,4,0,"['mdh', 'dlm', 'musik']",positive
+Keren dengerin musik tanpa iklan dan koleksi lagunya juga banyak,5,1,"['keren', 'dengerin', 'musik', 'tanpa', 'iklan', 'dan', 'koleksi', 'lagunya', 'juga', 'banyak']",positive
+Terimakasih karena telah hadir di dunia ini,5,0,"['terimakasih', 'karena', 'telah', 'hadir', 'di', 'dunia', 'ini']",positive
+mantap man,5,0,"['mantap', 'man']",positive
+aku bisa jengar lagu sesuka hati🥰,5,0,"['aku', 'bisa', 'jengar', 'lagu', 'sesuka', 'hati']",neutral
+sangat menghibur,5,0,"['sangat', 'menghibur']",positive
+bagus,5,0,['bagus'],positive
+musik nya udh lama gak di dengar tiba-tiba gak bisa didengerin lagi,1,0,"['musik', 'nya', 'sudah', 'lama', 'tidak', 'di', 'dengar', 'tibatiba', 'tidak', 'bisa', 'didengerin', 'lagi']",negative
+Aplikasi ini sangat membantu buat plat list di mana mana..makasihhhhhhh sudah buat apl sebagus ini,5,0,"['aplikasi', 'ini', 'sangat', 'membantu', 'buat', 'plat', 'list', 'di', 'mana', 'manamakasihhhhhhh', 'sudah', 'buat', 'apl', 'sebagus', 'ini']",positive
+Bagus app nya tapi kalo mau download musik harus pake premium dulu nah itu yang saya tidak suka,4,0,"['bagus', 'app', 'nya', 'tapi', 'kalo', 'mau', 'download', 'musik', 'harus', 'pake', 'premium', 'dulu', 'nah', 'itu', 'yang', 'saya', 'tidak', 'suka']",negative
+sangat bagus sistem nya,5,0,"['sangat', 'bagus', 'sistem', 'nya']",positive
+tolong iklannya dikurangin ya,3,0,"['tolong', 'iklannya', 'dikurangin', 'ya']",negative
+mantap,5,0,['mantap'],positive
+sipz mantap,5,0,"['sipz', 'mantap']",positive
+bagus ada saran dan pilihan optional nya biar ga bosen tanpa perlu premium,5,0,"['bagus', 'ada', 'saran', 'dan', 'pilihan', 'optional', 'nya', 'biar', 'tidak', 'bosen', 'tanpa', 'perlu', 'premium']",positive
+"tolong jangan premium, kita yang lagi galau belum mampu bayar prem :'(",1,0,"['tolong', 'jangan', 'premium', 'kita', 'yang', 'lagi', 'galau', 'belum', 'mampu', 'bayar', 'prem']",negative
+Good aplikasi,5,0,"['good', 'aplikasi']",positive
+Snagat baik,5,0,"['snagat', 'baik']",positive
+enak banget pas lagi main ml sama kawan-kawan,5,0,"['enak', 'banget', 'pas', 'lagi', 'main', 'ml', 'sama', 'kawankawan']",positive
+"Suara jernih, koleksi lengkap dan sangat cocok untuk pengisi waktu kerja atau dalam perjalanan",5,1,"['suara', 'jernih', 'koleksi', 'lengkap', 'dan', 'sangat', 'cocok', 'untuk', 'pengisi', 'waktu', 'kerja', 'atau', 'dalam', 'perjalanan']",positive
+Good,5,0,['good'],positive
+"Not bad... Tapi masih rancu dalam hal iklanny... Beberapa kali coba yg premium utk per 3 bulan seperti yg dikatakan iklannya. Ternyataaaaa oh ternyataaa buat yg punya credit card. Well, sedikit menyebalkan. Utk musik dan pilihannya bagus, tapi beberapa lagu blm ada dipilihanny.",5,193,"['not', 'bad', 'tapi', 'masih', 'rancu', 'dalam', 'hal', 'iklanny', 'beberapa', 'kali', 'coba', 'yang', 'premium', 'utk', 'per', 'bulan', 'seperti', 'yang', 'dikatakan', 'iklannya', 'ternyataaaaa', 'oh', 'ternyataaa', 'buat', 'yang', 'punya', 'credit', 'card', 'well', 'sedikit', 'menyebalkan', 'utk', 'musik', 'dan', 'pilihannya', 'bagus', 'tapi', 'beberapa', 'lagu', 'blm', 'ada', 'dipilihanny']",negative
+"lumayan bagus aplikasi nya menurut ku,tapi sering buffering pas nyari lagu di pencarian",4,0,"['lumayan', 'bagus', 'aplikasi', 'nya', 'menurut', 'kutapi', 'sering', 'buffering', 'pas', 'nyari', 'lagu', 'di', 'pencarian']",positive
+Sangat baguss aplikasi ini,5,0,"['sangat', 'baguss', 'aplikasi', 'ini']",positive
+mantap,5,0,['mantap'],positive
+bagus dan menarik lah karena bisa membuat kita bernostalgia trimaksih,4,1,"['bagus', 'dan', 'menarik', 'lah', 'karena', 'bisa', 'membuat', 'kita', 'bernostalgia', 'trimaksih']",positive
+ok banget,5,0,"['ok', 'banget']",negative
+jalanan nya bagus saya sampe ketiduran,5,0,"['jalanan', 'nya', 'bagus', 'saya', 'sampe', 'ketiduran']",positive
+keren,5,0,['keren'],positive
+bagus,5,0,['bagus'],positive
+asik,5,0,['asik'],positive
+kok sekarang gabisa putar lagu sesuai keinginan kita sih kalau mau putar lagu harus beli spotify premium. tapi lagu nya tetep bagus kok,4,3,"['kok', 'sekarang', 'gabisa', 'putar', 'lagu', 'sesuai', 'keinginan', 'kita', 'sih', 'kalau', 'mau', 'putar', 'lagu', 'harus', 'beli', 'spotify', 'premium', 'tapi', 'lagu', 'nya', 'tetep', 'bagus', 'kok']",positive
+lagunya bikin aku tenang dan nyaman.,5,0,"['lagunya', 'bikin', 'aku', 'tenang', 'dan', 'nyaman']",positive
+sukaaaaaa,5,0,['sukaaaaaa'],positive
+"lagunya keren"" 👍👍👍👍👍",5,0,"['lagunya', 'keren']",positive
+Bagus banget aplikasi nyaa cocok buat bersantai dan aku juga sering pake buat dengerin lagu galau kalo hati sedang terluka,5,0,"['bagus', 'banget', 'aplikasi', 'nyaa', 'cocok', 'buat', 'bersantai', 'dan', 'aku', 'juga', 'sering', 'pake', 'buat', 'dengerin', 'lagu', 'galau', 'kalo', 'hati', 'sedang', 'terluka']",positive
+pelit lu spotify,1,0,"['pelit', 'lu', 'spotify']",negative
+"Udah free banyak ngeluh di kasih iklan, hey itu pendapatan mereka buat manintenance aplikasi, kalo ga mau ada iklan, ya pake fitur berbayar/premium. Untuk masalah lagu acak/shuffle, sekali lagi ini app musik bukan untuk orang dengan mental gratisan, mau enak ya bayar, mau free ya nikmatin apa adanya aja. Udah gratis banyak maunya. Orang2 negeri wkwkwkland pada ga tau diri.",5,25,"['udah', 'free', 'banyak', 'ngeluh', 'di', 'kasih', 'iklan', 'hey', 'itu', 'pendapatan', 'mereka', 'buat', 'manintenance', 'aplikasi', 'kalo', 'tidak', 'mau', 'ada', 'iklan', 'ya', 'pake', 'fitur', 'berbayarpremium', 'untuk', 'masalah', 'lagu', 'acakshuffle', 'sekali', 'lagi', 'ini', 'app', 'musik', 'bukan', 'untuk', 'orang', 'dengan', 'mental', 'gratisan', 'mau', 'enak', 'ya', 'bayar', 'mau', 'free', 'ya', 'nikmatin', 'apa', 'adanya', 'saja', 'udah', 'gratis', 'banyak', 'maunya', 'orang', 'negeri', 'wkwkwkland', 'pada', 'tidak', 'tau', 'diri']",negative
+"Ga bisa berkata-kata lagi ini bagus banget, dan layar nya juga bisa dimatiin+masih ada suaranya 👍🤩🤩🤩 kalian semua dari negara manapun suku manapun harus download aplikasi ini (Spotify) the beast banget🤩🤩🤩👍👍👍👍",5,2,"['tidak', 'bisa', 'berkatakata', 'lagi', 'ini', 'bagus', 'banget', 'dan', 'layar', 'nya', 'juga', 'bisa', 'dimatiinmasih', 'ada', 'suaranya', 'kalian', 'semua', 'dari', 'negara', 'manapun', 'suku', 'manapun', 'harus', 'download', 'aplikasi', 'ini', 'spotify', 'the', 'beast', 'banget']",positive
+Nice,5,0,['nice'],positive
+Sangat relax,5,0,"['sangat', 'relax']",positive
+ok,5,0,['ok'],negative
+"Aplikasi musik lengkap,menemani waktu senggang dan koleksi lagunya cukup banyak",5,1,"['aplikasi', 'musik', 'lengkapmenemani', 'waktu', 'senggang', 'dan', 'koleksi', 'lagunya', 'cukup', 'banyak']",positive
+"Klu bisa jgn terlalu memaksa harus masuk ke premium karna ini kan pake kuota,jdi klu harus pake premium dan berlangganan keberatan",5,6,"['klu', 'bisa', 'jgn', 'terlalu', 'memaksa', 'harus', 'masuk', 'ke', 'premium', 'karna', 'ini', 'kan', 'pake', 'kuotajdi', 'klu', 'harus', 'pake', 'premium', 'dan', 'berlangganan', 'keberatan']",negative
+Okee kereeen,5,0,"['okee', 'kereeen']",positive
+"Aplikasinya bagus banget kita bisa dengerin lagu apa aja yg kita mau, dan sekarang Spotify juga udah ada fitur offline nya jadi gak khawatir takut nguras kuota.",5,2,"['aplikasinya', 'bagus', 'banget', 'kita', 'bisa', 'dengerin', 'lagu', 'apa', 'saja', 'yang', 'kita', 'mau', 'dan', 'sekarang', 'spotify', 'juga', 'udah', 'ada', 'fitur', 'offline', 'nya', 'jadi', 'tidak', 'khawatir', 'takut', 'nguras', 'kuota']",positive
+tolong adain premium yang mingguan lagi dong,3,0,"['tolong', 'adain', 'premium', 'yang', 'mingguan', 'lagi', 'dong']",negative
+"sangat bagus, jika masih ada yng komplain karena banyak iklan, itu berarti kamunya mesti up ke premium",5,3,"['sangat', 'bagus', 'jika', 'masih', 'ada', 'yng', 'komplain', 'karena', 'banyak', 'iklan', 'itu', 'berarti', 'kamunya', 'mesti', 'up', 'ke', 'premium']",positive
+"Karena bisa mendengar banyak lagu itu saya suka apa lagi lagu ejen ali aja ada aku kira enggak ada iseng aja nulis ""lagu ejen ali"" tiba tiba muncul, kalian harus nyobain juga seru loh, enggak bayar sama sekali, setelah saya pakai lama lah ternyata harus pakai spotify premium",5,3,"['karena', 'bisa', 'mendengar', 'banyak', 'lagu', 'itu', 'saya', 'suka', 'apa', 'lagi', 'lagu', 'ejen', 'ali', 'saja', 'ada', 'aku', 'kira', 'enggak', 'ada', 'iseng', 'saja', 'nulis', 'lagu', 'ejen', 'ali', 'tiba', 'tiba', 'muncul', 'kalian', 'harus', 'nyobain', 'juga', 'seru', 'loh', 'enggak', 'bayar', 'sama', 'sekali', 'setelah', 'saya', 'pakai', 'lama', 'lah', 'ternyata', 'harus', 'pakai', 'spotify', 'premium']",positive
+Kemahalan jirr awowkwokwkw,2,0,"['kemahalan', 'jirr', 'awowkwokwkw']",negative
+"bagus banget, kalau galau tinggal dengerin lagu galau",5,0,"['bagus', 'banget', 'kalau', 'galau', 'tinggal', 'dengerin', 'lagu', 'galau']",positive
+iye laguna alus jang maen epep bisa,5,0,"['iye', 'laguna', 'alus', 'jang', 'maen', 'epep', 'bisa']",neutral
+"Baik, bagus, tidak terlalu sulit di gunakan",4,0,"['baik', 'bagus', 'tidak', 'terlalu', 'sulit', 'di', 'gunakan']",positive
+"asikk bngtt oyyyy, gilaaa sii cuman yg bkin ga asik kaya bnyk podcast yg di hapus buat para pencinta m(4)f, HEHE. cape nyari' podcast yg bagus, gapapa de, pokona loveuuuuuuuu spootiiiifffyyyyyy‹𝟹‹𝟹‹𝟹‹𝟹‹𝟹‹𝟹",5,6,"['asikk', 'bngtt', 'oyyyy', 'gilaaa', 'sii', 'cuman', 'yang', 'bkin', 'tidak', 'asik', 'kaya', 'bnyk', 'podcast', 'yang', 'di', 'hapus', 'buat', 'para', 'pencinta', 'mf', 'hehe', 'cape', 'nyari', 'podcast', 'yang', 'bagus', 'gapapa', 'de', 'pokona', 'loveuuuuuuuu', 'spootiiiifffyyyyyy']",positive
+keren,3,0,['keren'],positive
+Selama saya menggunakannya bgs suara jernih dan lagu2nya lengkap semua.terima kasih spotify,5,1,"['selama', 'saya', 'menggunakannya', 'bgs', 'suara', 'jernih', 'dan', 'lagunya', 'lengkap', 'semuaterima', 'kasih', 'spotify']",positive
+So..Good,5,0,['sogood'],positive
+Apakah tidak bisa memutar musik secara offline?,4,1,"['apakah', 'tidak', 'bisa', 'memutar', 'musik', 'secara', 'offline']",neutral
+ngeLAG parahhh,3,0,"['ngelag', 'parahhh']",negative
+Sangat baik,5,0,"['sangat', 'baik']",positive
+"Sangat bagus sekali, dengerin lagu2 kenangan instan sekali. Ini yang free aja udh bagus, apalagi yg premium😀",5,0,"['sangat', 'bagus', 'sekali', 'dengerin', 'lagu', 'kenangan', 'instan', 'sekali', 'ini', 'yang', 'free', 'saja', 'sudah', 'bagus', 'apalagi', 'yang', 'premium']",positive
+bagus,5,0,['bagus'],positive
+Suka sekali dengan sportify jadi tingal pilih lagu yg kita suka trima kasih .👍,5,1,"['suka', 'sekali', 'dengan', 'sportify', 'jadi', 'tingal', 'pilih', 'lagu', 'yang', 'kita', 'suka', 'trima', 'kasih']",positive
+"Walaupun masih ada beberapa lagu atau grup band ketika diminta tidak ada, perlu bank data lagu yang banyak lagi sepertinya",5,1,"['walaupun', 'masih', 'ada', 'beberapa', 'lagu', 'atau', 'grup', 'band', 'ketika', 'diminta', 'tidak', 'ada', 'perlu', 'bank', 'data', 'lagu', 'yang', 'banyak', 'lagi', 'sepertinya']",neutral
+setelah update jadi gk jelas,2,0,"['setelah', 'update', 'jadi', 'gk', 'jelas']",negative
+aplikasi kikir😹,1,0,"['aplikasi', 'kikir']",neutral
+Keren,5,0,['keren'],positive
